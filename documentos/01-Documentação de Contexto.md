@@ -60,6 +60,32 @@ Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema
 
 Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
+A empresa GlobalWebIndex apontou que, no ano de 2015, o brasileiro passava mais de 3 horas e 40 minutos por dia online no celular (3,69 horas). Por sua vez, a empresa App Annie apontou que os brasileiros, naquele ano (2015) gastavam cerca de 135 minutos diários dedicados aos aplicativos. 
+
+
+[COLOCAR A FIGURA AQUI]
+Figura 1: Estimativa de uso diário, em horas, de internet pelo celular. Fonte: Empresa GlobalWebIndex, 2015.
+
+
+[COLOCAR A FIGURA AQUI]
+Figura 2: Média de uso diário, em minutos, em aplicativos por meio de telefone móvel. Fonte: Empresa App Annie, 2017.
+
+
+Dessa forma, fica claro que a tecnologia já se tornou uma forte aliada ao marketing de eventos, como a divulgação em sítios eletrônicos e aplicativos próprios. Por esse motivo, será criada uma página web dedicada à divulgação de eventos de TI, para que, de uma lado, o usuário possa ter um local para realizar compras seguras e, de outro, para que o produtor de eventos possa divulgar a venda dos seus ingressos (uma forma de distribuição)
+
+A necessidade de uma plataforma segura e eficiente para a venda de ingressos online é evidente devido às preocupações crescentes com autenticidade e segurança. Além disso, a digitalização do processo beneficia tanto os usuários quanto as empresas organizadoras, aumentando a acessibilidade e a visibilidade dos eventos.
+
+Além do exposto anteriormente, pelo lado do usuário existem diversos benefícios com a criação de eventos de tecnologia em plataformas na internet, tais como:
+- Acessibilidade: os usuários podem acessar informações sobre o evento, como datas, horários e detalhes, de qualquer;
+- Facilidade de registro: a inscrição e a compra de ingressos online são convenientes e economizam tempo, eliminando a necessidade de deslocamentos físicos ou chamadas telefônicas;
+- Compartilhamento fácil: Os usuários podem compartilhar informações sobre eventos com seus amigos e redes sociais com facilidade, ajudando a promover os eventos para um público maior.
+
+Por sua vez, pelo lado da empresa que produz o marketing digital, podem ser citadas alguns benefícios, os quais encontram-se listados abaixo:
+- Alcance global e ampliação da marca: A internet permite que as empresas alcancem um público maior, ampliando o alcance de seus eventos e atraindo participantes de diferentes regiões;
+- Pode haver economia de custos, uma vez que tende a eliminar despesas com materiais impressos, aluguel de espaços físicos, entre outros;
+- Rastreamento e análise de dados: as empresas podem coletar dados detalhados sobre o desempenho do marketing de eventos online, permitindo a análise de métricas, como taxa de conversão (quantos visitantes do site ou das páginas de divulgação do evento realizaram uma ação desejada, como registrar-se ou comprar ingressos), engajamento do público, Taxa de Abertura de E-mails.
+
+
 ## Público-Alvo
 
 [Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
