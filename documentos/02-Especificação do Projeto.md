@@ -17,38 +17,64 @@
   <td><b>Necessidades</b></td>
   <td>1. Explorar uma lista de eventos disponíveis.</td>
 </tr>
+  
 <tr>
   <td><b></b></td>
   <td>2. Visualizar informações básicas de eventos.</td>
 </tr>
+
 <tr>
   <td><b></b></td>
   <td>3.Acessar detalhes como data, local e categoria</td>
 </tr>
+
 <tr>
   <td><b></b></td>
   <td>4. Compartilhar o link do evento com amigos.</td>
 </tr>
+
 <tr>
   <td><b></b></td>
   <td>5. Se cadastrar na plataforma</td>
 </tr>
+
 </tbody>
 </table>
 
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Usuário Registrado </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Indivíduos que possuem uma conta na plataforma</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>1. Fazer login para acessar recursos exclusivos.</td>
 </tr>
+
+<tr>
+<td><b></b></td>
+<td>2. Salvar eventos favoritos para referência.</td>
+</tr>
+
+<tr>
+<td><b></b></td>
+<td>3. Adicionar ingressos ao carrinho.</td>
+</tr>
+
+<tr>
+<td><b></b></td>
+<td>4. Acompanhar histórico de compras.</td>
+</tr>
+
+<tr>
+<td><b></b></td>
+<td>5. Compartilhar o link do evento com amigos.</td>
+</tr>
+
 </tbody>
 </table>
 
