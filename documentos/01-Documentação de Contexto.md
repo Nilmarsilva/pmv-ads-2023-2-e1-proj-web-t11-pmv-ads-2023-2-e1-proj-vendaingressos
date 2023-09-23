@@ -97,3 +97,13 @@ Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
+O público-alvo refere-se ao grupo de pessoas para as quais um negócio direciona seus produtos ou serviços, uma vez que essas pessoas demonstram interesse e identificação com o que é oferecido.
+
+Dessa forma, o público-alvo definido é:
+
+- Interessados em tecnologia;
+- Influenciadores digitais (de tecnologia);
+- Indivíduos que desejam adquirir ingressos e participar de uma diversidades de eventos tecnológicos, que variam desde entretenimento a eventos educacionais;
+- Empresas Organizadoras: promotoras de eventos que buscam um meio eficiente de comercializar e gerenciar e divulgar a venda de ingressos.
+
+
