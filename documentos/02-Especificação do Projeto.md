@@ -81,16 +81,33 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Empresa Organizadora </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Entidades que organizam eventos para o público</td>
 </tr>
+  
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>1. Registrar-se como organizador na plataforma.</td>
 </tr>
+
+<tr>
+<td><b></b></td>
+<td>2. Cadastrar detalhes do evento a ser promovido</td>
+</tr>
+
+<tr>
+<td><b></b></td>
+<td>3. Definir preços, limites de ingressos, etc.</td>
+</tr>
+
+<tr>
+<td><b></b></td>
+<td>4. Acompanhar vendas e gerenciar informações (rastreamento e análise de dados)</td>
+</tr>
+
 </tbody>
 </table>
 
