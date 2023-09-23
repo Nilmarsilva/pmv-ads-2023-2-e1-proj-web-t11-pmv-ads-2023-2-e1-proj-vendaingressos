@@ -12,6 +12,19 @@ Para sanar, ou, pelo menos minimizar alguns  dos problemas apontados anteriormen
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
+O problema presente que este projeto visa sanar é a escassez de divulgação e visibilidade de diversos eventos e mostras relacionadas à TI. Esta carência de divulgação pode resultar em várias questões, tais como:
+
+- Desconhecimento das Oportunidades: muitas pessoas, empresas e até mesmo instituições de ensino podem não estar cientes das oportunidades de carreira e projetos de pesquisa;
+
+- Escassez de Talentos: a falta de divulgação sobre carreiras e oportunidades em TI pode contribuir para a escassez de profissionais qualificados nesse setor. Isso é especialmente preocupante em um cenário onde a demanda por especialistas em TI está em constante crescimento;
+
+- Estagnação Tecnológica: empresas e organizações que não estão atualizadas sobre as mais recentes inovações em TI podem ficar para trás em termos de eficiência, competitividade e segurança;
+
+
+Para atingir um grande público, é crucial investir em campanhas de divulgação que sejam eficazes e eficientes. Dessa forma, um portal eletrônico que contenha informações sobre eventos de tecnologia tem um grande potencial para mitigar os problemas supramencionados.
+
+Por fim, a publicação desses eventos em um ambiente eletrônico, tem o intuito de reunir o público de diversas regiões do país que se interesse pela área de tecnologia, com o fim de agregar conhecimento e compartilhar experiências profissionais. Ademais, esta aplicação tem como propósito promover aproximação entre os colaboradores da área, contribuindo  para o setor de tecnologia no país.
+
 
 ## Objetivos
 
