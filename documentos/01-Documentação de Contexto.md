@@ -2,6 +2,11 @@
 
 [Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
 
+Quando se fala em compras de ingressos on-line, em especial para eventos voltados à área de TI (Tecnologia da Informação), muitos estudantes e pessoas que desejam ingressar na área às vezes enfrentam obstáculos e dificuldades ao tentar estabelecer um network sólido que lhes permitam fazer parte do mercado de trabalho. Isso, muitas vezes, ocorre devido à escassez de oportunidades ou, até mesmo, à falta de visibilidade de eventos, exposições e encontros relacionados à tecnologia e inovações da área.
+
+Para sanar, ou, pelo menos minimizar alguns  dos problemas apontados anteriormente, a atual aplicação visa criar um portal dedicado a eventos de tecnologia, onde os alunos possam ter acesso a uma ampla gama de atividades que enriqueçam seu aprendizado e impulsionem seu networking profissional.
+
+
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
