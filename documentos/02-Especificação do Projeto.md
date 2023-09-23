@@ -116,6 +116,8 @@
 
 [Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
 
+Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki - Engenharia de Requisitos do Trello) e adaptando alguns desses para a realidade da aplicação deste projeto foi possível obter as seguintes histórias de usuário:
+
 > **Link Útil**:
 > - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
@@ -123,9 +125,12 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
+| Usuário                |Explorar eventos disponíveis                       | Comprar ingressos do evento                              |
 | ...                | ...                       | ...                              |
 | ...                | ...                       | ...                              |
-
+| ...                | ...                       | ...                              |
+| ...                | ...                       | ...                              |
+| ...                | ...                       | ...                              |
 ## Requisitos do Projeto
 
 [Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
