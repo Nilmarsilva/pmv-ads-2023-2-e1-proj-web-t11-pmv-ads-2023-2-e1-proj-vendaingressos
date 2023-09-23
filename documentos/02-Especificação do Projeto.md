@@ -7,6 +7,54 @@
 <table>
 <tbody>
 <tr align=center>
+<th colspan="2">Usuário  Visitante </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Indivíduos que acessam a plataforma sem se registrarem</td>
+</tr>
+<tr>
+  <td><b>Necessidades</b></td>
+  <td>1. Explorar uma lista de eventos disponíveis.</td>
+</tr>
+<tr>
+  <td><b></b></td>
+  <td>2. Visualizar informações básicas de eventos.</td>
+</tr>
+<tr>
+  <td><b></b></td>
+  <td>3.Acessar detalhes como data, local e categoria</td>
+</tr>
+<tr>
+  <td><b></b></td>
+  <td>4. Compartilhar o link do evento com amigos.</td>
+</tr>
+<tr>
+  <td><b></b></td>
+  <td>5. Se cadastrar na plataforma</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil Nome </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">...</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>...</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
 <th colspan="2">Perfil Nome </th>
 </tr>
 <tr>
