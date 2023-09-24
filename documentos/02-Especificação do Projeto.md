@@ -149,16 +149,28 @@ De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Au
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
+| RF-01 |  A aplicação permitirá: cadastrar novo usuário; alterar usuário; excluir usuário; consultar usuário                    | ALTA   | 
+|  RF- 02  |  A aplicação permitirá login por meio dos dados cadastrados                    | ALTA   |
+|  RF- 03  |  A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos para permitir ao usuário localizar seus ingressos  |ALTA   |
+|  RF- 04  |  A aplicação permitirá o cadastro de ingressos                    | ALTA   |
+|  RF-05  |  A aplicação permitirá ao usuário adicionar ingressos ao carrinho                    | ALTA   |
+|  RF-06  |  O sistema deve exibir o valor de venda de cada produto                    | ALTA   |
+|  RF - 07  |  Aplicação permitirá o cadastro de um meio de pagamento                    | ALTA   |
+|  RF-08  |  A aplicação deve permitir ao usuário excluir ingressos do carrinho (O sistema deve prover o gerenciamento dos produtos presentes no carrinho de compras).                    | MÉDIA   |
+|  RF-09  |  A aplicação deve permitir ao usuário ter informações sobre o ingresso e evento                    | MÉDIA   |
+|  RF-10  |  O sistema deve organizar seus eventos em categorias (Inteligência artificial; banco de dados; linguagens de programação; mostra de profissões; mostra de softwares, etc)  para melhorar a experiência do usuário ao procurar seus produtos desejados.                    | MÉDIA   |
+|  RF-11  |  A aplicação deve emitir o ingresso em formato digital (PDF) e enviar para o email que o usuário cadastrou                    | ALTA   |
+|  RF-12  |  A aplicação deve permitir a emissão de nota fiscal                    | MÉDIA   |
+|  RF-13  |  A aplicação permite ao usuário verificar as informações de seu perfil e personalizá-las                    | MÉDIA   |
+|  RF-14  |  O sistema deve enviar um e-mail de notificação ao usuário confirmando: o cadastro do usuário; a compra do ingresso; o cancelamento da compra   | MÉDIA   |
+|  RF-15  |  A aplicação deve emitir um relatório de compras para o organizador do evento (o sistema deve gerar relatórios sobre todas as vendas realizadas).                    | ALTA   |
+|  RF-16  |  O sistema deve gerar relatórios sobre o histórico de compras de um determinado usuário                    | MÉDIA   |
+|  RF-17  |  A aplicação deve informar ao organizador sempre que uma compra for efetuada ou cancelada                    | BAIXA   |
+|  RF-18  |  A aplicação deve fornecer ao usuário a opção de redefinir sua senha, informando o email cadastrado                    | ALTA   |
+|  RF-19  |  O sistema deve possibilitar ao usuário o compartilhamento da realização de uma compra                    |  MÉDIA  |
+
+
+
 
 **Prioridade: Alta / Média / Baixa. 
 
