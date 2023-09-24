@@ -126,11 +126,17 @@ Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | Usuário                |Explorar eventos disponíveis                       | Comprar ingressos do evento                              |
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Usuário                | Explorar eventos disponíveis                       | Compartilhar os eventos com amigos                              |
+| Usuário                | Favoritar eventos                       | Acompanhar com mais facilidade as notícias e atualizações sobre os eventos favoritos.|
+| Usuário                | Haja opção de receber e-mail sobre eventos ainda que não favoritados                       | Acompanhar com mais facilidade as notícias e atualizações sobre os eventos diversos.                              |
+| Usuário                | Interagir com ferramentas externas.                       | Efetuar login com dados cadastrados em outras contas (Gmail; Facebook …)                              |
+| Usuário                | Receber e-mails de compras e cancelamentos                       | Acompanhar se a compra foi efetuada ou se foi adequadamente cancelada.                              |
+| Empresa de Eventos                | Receber e-mails sobre compras e cancelamentos                       | Acompanhar vendas e gerenciar informações                              |
+| Empresa de Eventos                | Receber informações acerca de taxa de conversão                       | Acompanhar qual/quais eventos estão atraindo maior atenção/interação dos usuários                              |
+| Empresa de Eventos                | Cadastrar eventos                       | Seja disponibilizado ao usuário                              |
+| Empresa de Eventos                | Cadastrar a empresa de eventos                       | A empresa possa publicar seus eventos                          |
+
+
 ## Requisitos do Projeto
 
 [Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
@@ -139,9 +145,19 @@ Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki 
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
+De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Autor Francilvio Roberto Alff, 7 de março de 2018), os requisitos funcionais (RF) são todas as necessidades, características ou funcionalidades esperadas em um processo que podem ser atendidos pelo software. Isto é, um RF responde à pergunta: “o que sistema DEVE fazer?”. Dessa forma, os RFs foram definidos seguindo a diretriz proposta pelo autor acima.
+
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 |  ...                    | ...   | 
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   |
 |  ...  |  ...                    | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
