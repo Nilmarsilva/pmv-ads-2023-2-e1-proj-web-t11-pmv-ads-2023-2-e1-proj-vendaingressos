@@ -178,10 +178,26 @@ De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Au
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
+Conforme explica o artigo "O que são requisitos funcionais e não funcionais?" (Autor Francilvio Roberto Alff, 7 de março de 2018), os requisitos não funcionais (RNF) devem sempre ser mensuráveis, ou seja, deve ser possível verificar se ele está ou não sendo atendido pelo software de acordo com alguma métrica apropriada. Portanto, os RNFs foram definidos seguindo a diretriz proposta pelo autor supramencionado.
+
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RÑF-01 |  Aplicação deve ser responsiva sendo possível seu uso em diferentes dispositivos (em todos os sistemas operacionais mobile)                    | ALTA   | 
+| RÑF-02    |  O desenvolvimento deve ser em linguagem C#, HTML, CSS E JAVASCRIPT                    | ALTA   | 
+| RÑF-03    |  A aplicação deve ser compatível com os principais navegadores do mercado                    | ALTA   | 
+| RÑF-04    |  O sistema deve permitir o cadastro do usuário em 10 minutos                    | MÉDIA   | 
+| RÑF-05    |  O sistema deve permitir exclusão do usuário em 5 minutos                    | MÉDIA   | 
+| RÑF-06    |  O sistema deve permitir alteração dos dados cadastrais do usuário em 5 minutos                    | MÉDIA   | 
+| RÑF-07    |  O sistema deve permitir que o usuário escolha não receber mais notificações por email em um processo simples e rápido que demore no máximo 2 minutos                    | MÉDIA   | 
+| RÑF-08    |  O cadastro do usuário e armazenamento de suas informações devem seguir as diretrizes da Lei Geral de Proteção de Dados (LGPD).                    | ALTA   | 
+| RÑF-09    |  O sistema deve ser passível de manutenção para migração para outra plataforma em até 2 semanas                    | ALTA   | 
+| RÑF-10    |  O sistema deve estar disponível 99% do tempo, considerando o período de venda dos ingressos.                    | ALTA   | 
+| RÑF-11    |  O sistema deve cancelar a compra em até 10 minutos caso o usuário não finalize a compra                    | ALTA   | 
+| RÑF-12    |  O sistema deve funcionar normalmente mesmo tendo 1000 acessos simultaneamente                    | ALTA   | 
+| RÑF-13    |  O sistema deve possuir um Design para mobile responsivo                    | ALTA   | 
+| RÑF-14    |  Deve existir uma documentação em formato de HELP online                    | MÉDIA   | 
+| RÑF-15    |  Aplicação deverá definir um modelo de pagamento (PIX, Cartão de C/DB, Boleto Bancário)                    | ALTA   | 
+| RÑF-16    |  O sistema deve possuir níveis de acesso para diferenciar usuários comuns de usuários administrativos, que acessarão áreas restritas do sistema                    | ALTA   | 
 
 **Prioridade: Alta / Média / Baixa. 
 
