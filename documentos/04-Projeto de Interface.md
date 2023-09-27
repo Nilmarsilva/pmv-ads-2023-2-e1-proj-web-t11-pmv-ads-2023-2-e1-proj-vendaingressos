@@ -5,7 +5,17 @@
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
+Entre as considerações relevantes para a concepção da interface do sistema, o grupo decidiu priorizar aspectos como velocidade de resposta, acessibilidade e facilidade de utilização. 
+
+Dessa forma, o projeto visa manter e aderir uma identidade visual consistente em todas as telas, com o fim de operar eficientemente em computadores desktop e dispositivos móveis.
+
+
 [Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário por meio das telas do sistema. Cada uma das telas da figura supramencionada é detalhada na seção de Wireframes a seguir. Destaca-se que o nome escolhido para o portal é Tec Fusion, pois diversos eventos tecnológicos podem ser encontrados em um único lugar (no portal Tec Fusion). 
+
+<img width="452" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/4cd2d1e7-d524-4f71-a10b-f1a6532d6ce9">
+
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
