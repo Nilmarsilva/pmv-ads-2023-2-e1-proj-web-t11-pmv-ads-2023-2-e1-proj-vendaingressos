@@ -9,6 +9,14 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
+Além disso, como apontado por Sottelli – Consultoria Especializada, essa metodologia pode trazer os seguintes benefícios:
+- Entregas rápidas e previsíveis;
+- Times autogerenciáveis;
+- Transparência;
+- Melhor estruturação dos projetos;
+- Fortalecimento das entregas, sem perder qualidade.
+
+
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
@@ -63,11 +71,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Repositório de código fonte         | GitHub                             | [http://....](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos)                           |
+| Documentos do projeto               | Google Drive                             | [http://....](https://drive.google.com/drive/folders/1WmcM98Lz9N-tKDSkuthcorr8lS1sfzvI)                            |
+| Projeto de Interface                | Canva                              | [[http://....](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ)](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?utm_content=DAFvpdPBxhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)              |
+| Gerenciamento do Projeto            | Gerenciamento do Projeto                    | [http://....](https://trello.com/b/0Zb80qDf/venda-ingressos-tec)                            |
 
 
 ### Estratégia de Organização de Codificação 
