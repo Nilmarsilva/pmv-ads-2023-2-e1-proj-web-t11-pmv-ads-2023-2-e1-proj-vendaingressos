@@ -73,7 +73,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | [http://....](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos)                           |
 | Documentos do projeto               | Google Drive                             | [http://....](https://drive.google.com/drive/folders/1WmcM98Lz9N-tKDSkuthcorr8lS1sfzvI)                            |
-| Projeto de Interface                | Canva                              | [[http://....](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ)](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?utm_content=DAFvpdPBxhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)              |
+| Projeto de Interface                | Canva                              | [[http://....](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ)]            |
 | Gerenciamento do Projeto            | Gerenciamento do Projeto                    | [http://....](https://trello.com/b/0Zb80qDf/venda-ingressos-tec)                            |
 
 
