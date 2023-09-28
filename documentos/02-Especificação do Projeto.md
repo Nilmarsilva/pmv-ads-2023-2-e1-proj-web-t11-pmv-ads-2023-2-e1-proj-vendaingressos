@@ -145,6 +145,13 @@ Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki 
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
+<img width="505" alt="Screen Shot 2023-09-28 at 11 25 25 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a436368d-12d2-4db9-a299-730a65cda4a7">
+Figura 3: Requisitos de Sistema. Fonte: ALFF, Francilvio Roberto, 2018.
+
+
+A figura acima (Figura 3) demonstra a importância da definição correta dos requisitos do sistema, pois eles devem atender aos requisitos do usuário para, posteriormente, atingirem a solução proposta na regra de negócio.
+
+
 De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Autor Francilvio Roberto Alff, 7 de março de 2018), os requisitos funcionais (RF) são todas as necessidades, características ou funcionalidades esperadas em um processo que podem ser atendidos pelo software. Isto é, um RF responde à pergunta: “o que sistema DEVE fazer?”. Dessa forma, os RFs foram definidos seguindo a diretriz proposta pelo autor acima.
 
 |ID    | Descrição                | Prioridade |
