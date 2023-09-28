@@ -95,7 +95,8 @@ Caso o usuário ainda não tenha um login, é nesta tela que ele irá terá aces
 Por fim, caso o usuário deseje regressar pela tela inicial, basta clicar em “Tela Inicial”.
 A imagem abaixo sintetiza a explicação acima.
 
-<img width="412" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/86590574-c17a-40aa-835b-157d096b7734">
+![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/6ddba4e4-e262-473b-af34-16d08179cc5a)
+
 Figura X – Tela Login e Cadastro.
 
 
