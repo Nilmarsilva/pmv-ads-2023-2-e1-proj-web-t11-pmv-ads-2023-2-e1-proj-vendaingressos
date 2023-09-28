@@ -63,11 +63,14 @@ Este link pode ajudar a equipe a formular a justificativa: [Como montar a justif
 A empresa GlobalWebIndex apontou que, no ano de 2015, o brasileiro passava mais de 3 horas e 40 minutos por dia online no celular (3,69 horas). Por sua vez, a empresa App Annie apontou que os brasileiros, naquele ano (2015) gastavam cerca de 135 minutos diários dedicados aos aplicativos. 
 
 
-[COLOCAR A FIGURA AQUI]
+<img width="526" alt="Screen Shot 2023-09-28 at 11 21 56 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/92a3d727-b140-4ea3-8a7c-6807d79da037">
+
 Figura 1: Estimativa de uso diário, em horas, de internet pelo celular. Fonte: Empresa GlobalWebIndex, 2015.
 
 
-[COLOCAR A FIGURA AQUI]
+
+<img width="832" alt="Screen Shot 2023-09-28 at 11 22 21 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/331886ef-6d5a-4b8a-bdce-b8fca8e7bc6a">
+
 Figura 2: Média de uso diário, em minutos, em aplicativos por meio de telefone móvel. Fonte: Empresa App Annie, 2017.
 
 
