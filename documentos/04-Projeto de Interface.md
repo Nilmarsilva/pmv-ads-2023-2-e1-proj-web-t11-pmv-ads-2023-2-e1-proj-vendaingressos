@@ -14,7 +14,8 @@ Dessa forma, o projeto visa manter e aderir uma identidade visual consistente em
 
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário por meio das telas do sistema. Cada uma das telas da figura supramencionada é detalhada na seção de Wireframes a seguir. Destaca-se que o nome escolhido para o portal é Tec Fusion, pois diversos eventos tecnológicos podem ser encontrados em um único lugar (no portal Tec Fusion). 
 
-<img width="452" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/4cd2d1e7-d524-4f71-a10b-f1a6532d6ce9">
+![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/14842d7d-9f68-4102-9c32-82e673030267)
+
 Figura X - Fluxo de telas do usuário
 
 
@@ -39,7 +40,8 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 A tela de home-page mostra, basicamente, todo o conteúdo do site que pode ser acessado. Isto é, é possível entrar nos eventos (que irão ocorrer), nos eventos passados, nos eventos favoritos e no cadastro de usuário.
 A figura principal da tela inicial traz uma crença compartilhada pelo grupo, que diz: “ Nós acreditamos que eventos tecnológicos inspiram o progresso
 
-<img width="452" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/c559377e-0ee1-4721-b980-65719843aace">
+![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a6a4b2d3-98c3-4e1b-ac7b-bc2435b586a3)
+
 Figura X - Tela Inicial
 
 ## Tela - Eventos
@@ -47,7 +49,8 @@ A tela de Eventos demonstra 3 principais eventos que irão ocorrer. Os principai
 
 Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos passados e os eventos favoritados por ele. Tudo isso é apresentado na Figura abaixo.
 
-<img width="411" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/bfd92892-f084-448a-ad23-6a642ff15e1c">
+![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/45e0d36a-65d7-4eea-be04-151f1c54e266)
+
 Figura X - Tela de Eventos (que irão ocorrer)
 
 ## Tela – Eventos Passados
@@ -56,7 +59,9 @@ A tela de Eventos Passados traz um notícia bem sucinta sobre cada evento ocorri
 Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos favoritados por ele.
 
 Tudo isso é apresentado na Figura a seguir.
-<img width="452" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/aef16d16-23f3-410e-a672-b2197b3b13a6">
+
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/56457c4b-5122-4344-9c5d-09f9532cc219)
+
 Figura X - Tela de Eventos Passados
 
 ## Tela - Eventos Preferidos
@@ -66,7 +71,8 @@ Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos
 
 Tudo isso é apresentado na Figura a seguir
 
-<img width="452" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/e9ff880e-7484-470b-a281-1ff08d99f57f">
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/41dd1fed-a57f-47d2-bf70-ea62ba6f0fd2)
+
 
 Figura X - Tela de Eventos Favoritos
 
@@ -77,7 +83,8 @@ Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos
 
 Tudo isso é apresentado na Figura a seguir
 
-<img width="452" alt="image" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/57735ad1-10df-4494-8095-0ac230abd187">
+![Beige Minimalist Creative Agency Website Desktop Prototype (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/872433cf-ea04-4984-bc5a-b8a1ac837b70)
+
 Figura X – Tela com a informação expandida do evento que vai ocorrer; que já ocorreu e do evento favoritado
 
 ## Tela – Login e Cadastrar
