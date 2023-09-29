@@ -133,8 +133,6 @@ Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki 
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
-
 <img width="961" alt="Screen Shot 2023-09-28 at 11 45 22 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/f599e2cb-febb-4397-be1d-a8f63bf5f788">
 
 Figura 3: Requisitos de Sistema. Fonte: ALFF, Francilvio Roberto, 2018.
