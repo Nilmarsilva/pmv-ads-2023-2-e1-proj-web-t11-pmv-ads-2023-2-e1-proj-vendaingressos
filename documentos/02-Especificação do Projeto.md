@@ -170,7 +170,7 @@ De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Au
 |  RF-11  |  A aplicação deve emitir o ingresso em formato digital (PDF) e enviar para o email que o usuário cadastrou                    | ALTA   |
 |  RF-12  |  A aplicação deve permitir a emissão de nota fiscal                    | MÉDIA   |
 |  RF-13  |  A aplicação permite ao usuário verificar as informações de seu perfil e personalizá-las                    | MÉDIA   |
-|  RF-14  |  O sistema deve enviar um e-mail de notificação ao usuário confirmando: o cadastro do usuário; a compra do ingresso; o cancelamento da compra   | MÉDIA   |
+|  RF-14  |  O sistema deve enviar um e-mail de notificação ao usuário confirmando: o cadastro do usuário; a compra do ingresso; o cancelamento da compra   | ALTA   |
 |  RF-15  |  A aplicação deve emitir um relatório de compras para o organizador do evento (o sistema deve gerar relatórios sobre todas as vendas realizadas).                    | ALTA   |
 |  RF-16  |  O sistema deve gerar relatórios sobre o histórico de compras de um determinado usuário                    | MÉDIA   |
 |  RF-17  |  A aplicação deve informar ao organizador sempre que uma compra for efetuada ou cancelada                    | BAIXA   |
@@ -204,8 +204,7 @@ Conforme explica o artigo "O que são requisitos funcionais e não funcionais?" 
 | RÑF-12    |  O sistema deve funcionar normalmente mesmo tendo 1000 acessos simultaneamente                    | ALTA   | 
 | RÑF-13    |  O sistema deve possuir um Design para mobile responsivo                    | ALTA   | 
 | RÑF-14    |  Deve existir uma documentação em formato de HELP online                    | MÉDIA   | 
-| RÑF-15    |  Aplicação deverá definir um modelo de pagamento (PIX, Cartão de C/DB, Boleto Bancário)                    | ALTA   | 
-| RÑF-16    |  O sistema deve possuir níveis de acesso para diferenciar usuários comuns de usuários administrativos, que acessarão áreas restritas do sistema                    | ALTA   | 
+| RÑF-15    |  O sistema deve possuir níveis de acesso para diferenciar usuários comuns de usuários administrativos, que acessarão áreas restritas do sistema                    | ALTA   | 
 
 **Prioridade: Alta / Média / Baixa. 
 
