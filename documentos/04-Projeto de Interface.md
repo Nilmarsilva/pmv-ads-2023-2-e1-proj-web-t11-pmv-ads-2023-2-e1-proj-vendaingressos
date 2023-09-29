@@ -9,7 +9,7 @@ Entre as considerações relevantes para a concepção da interface do sistema, 
 
 Dessa forma, o projeto visa manter e aderir uma identidade visual consistente em todas as telas, com o fim de operar eficientemente em computadores desktop e dispositivos móveis.
 
-O diagrama apresentado na Figura X mostra o fluxo de interação do usuário por meio das telas do sistema. Cada uma das telas da figura supramencionada é detalhada na seção de Wireframes a seguir. Destaca-se que o nome escolhido para o portal é Tec Fusion, pois diversos eventos tecnológicos podem ser encontrados em um único lugar (no portal Tec Fusion). 
+O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário por meio das telas do sistema. Cada uma das telas da figura supramencionada é detalhada na seção de Wireframes a seguir. Destaca-se que o nome escolhido para o portal é Tec Fusion, pois diversos eventos tecnológicos podem ser encontrados em um único lugar (no portal Tec Fusion). 
 
 ![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/14842d7d-9f68-4102-9c32-82e673030267)
 
@@ -37,7 +37,7 @@ Figura 2 - Tela Inicial
 ## Tela - Eventos
 A tela de Eventos demonstra 3 principais eventos que irão ocorrer. Os principais eventos devem ser escolhidos com base na quantidade de ingressos vendidos. Os eventos podem ser procurados pelo nome do evento na barra de pesquisa e também por categorias. Clicando no evento desejado, uma nova tela (Informação Expandida do Evento) irá ser acessada contendo a descrição detalhada do evento escolhido.
 
-Ainda, o usuário pode acessar a pagina inicial, página dos eventos passados e os eventos favoritados por ele. Tudo isso é apresentado na Figura 3 abaixo.
+Ainda, o usuário pode acessar a página inicial, página dos eventos passados e os eventos favoritados por ele. Tudo isso é apresentado na Figura 3 abaixo.
 
 ![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/394233c9-f25b-47d0-bc11-cd5de22fa166)
 
@@ -45,9 +45,9 @@ Ainda, o usuário pode acessar a pagina inicial, página dos eventos passados e 
 Figura 3 - Tela de Eventos (que irão ocorrer)
 
 ## Tela – Eventos Passados
-A tela de Eventos Passados traz um notícia bem sucinta sobre cada evento ocorrido. Clicando na seta, o usuário pode acessar um resumo mais completo sobre o evento. Os eventos passados podem ser acessados por meio da barra de pesquisa. Clicando no evento desejado, uma nova tela (Informação Expandida do Evento) irá ser acessada contendo a descrição detalhada do evento escolhido.
+A tela de Eventos Passados traz um notícia bem sucinta sobre cada evento ocorrido. Clicando na seta, o usuário pode acessar um resumo mais completo sobre o evento. Os eventos passados podem ser acessados por meio da barra de pesquisa. Clicando no evento desejado, uma nova tela (Informação Expandida do Evento) irá ser acessada contendo a descrição detalhada do evento escolhido. Destaca-se que a página “eventos favoritos” somente é acessada após o usuário ter efetuado o login.
 
-Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos favoritados por ele.
+Ainda, o usuário pode acessar a página inicial, pagina dos eventos e os eventos favoritados por ele.
 
 Tudo isso é apresentado na Figura 4 a seguir.
 
@@ -56,7 +56,9 @@ Tudo isso é apresentado na Figura 4 a seguir.
 Figura 4 - Tela de Eventos Passados
 
 ## Tela - Eventos Preferidos
-A tela de Eventos favoritos, similarmente à tela de Eventos Passados, traz um notícia bem sucinta sobre cada evento favoritado pelo usuário. Clicando na seta, o usuário pode acessar um resumo mais completo sobre o evento. Os eventos favoritos podem ser acessados por meio da barra de pesquisa. Clicando no evento desejado, uma nova tela irá ser acessada contendo a descrição detalhada do evento escolhido.
+A tela de Eventos favoritos, similarmente à tela de Eventos Passados, traz um notícia bem sucinta sobre cada evento favoritado pelo usuário. Clicando na seta, o usuário pode acessar um resumo mais completo sobre o evento. Os eventos favoritos podem ser acessados por meio da barra de pesquisa. Clicando no evento desejado, uma nova tela irá ser acessada contendo a descrição detalhada do evento escolhido. 
+Deve-se lembrar que a página “eventos favoritos” somente é acessada após o usuário ter efetuado o login.
+
 
 Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos passados.
 
@@ -70,7 +72,7 @@ Figura 5 - Tela de Eventos Favoritos
 ## Tela – Informação Expandida do Evento
 A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer, do evento que já ocorreu e do evento favoritado pelo usuário. 
 
-Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos passados.
+Ainda, o usuário pode acessar a página inicial, pagina dos eventos e os eventos passados.
 
 Tudo isso é apresentado na Figura 6 a seguir.
 
