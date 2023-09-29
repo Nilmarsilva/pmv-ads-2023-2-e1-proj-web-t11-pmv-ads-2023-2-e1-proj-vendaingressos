@@ -6,7 +6,7 @@ Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End
 
 2023/2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Este projeto tem como objetivo o desenvolvimento de um portal especializado em eventos relacionados à tecnologia, com o propósito de proporcionar aos usuários a oportunidade de acessar uma diversidade de atividades que contribuam para aprimorar sua educação e promover suas conexões profissionais.
 
 ## Integrantes
 
