@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 ## Integrantes
 
 * Daniel Müller Armond
-* Nome completo do aluno 2
+* Bernardo Alves Sirqueira
 * Rodrigo Vieira Alves de Lima
 * Nome completo do aluno 4
 * Nome completo do aluno 5
