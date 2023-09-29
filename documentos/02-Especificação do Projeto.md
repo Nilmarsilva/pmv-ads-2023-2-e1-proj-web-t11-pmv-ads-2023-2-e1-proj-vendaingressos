@@ -2,8 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
@@ -114,14 +112,8 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
 Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki - Engenharia de Requisitos do Trello) e adaptando alguns desses para a realidade da aplicação deste projeto foi possível obter as seguintes histórias de usuário:
 
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
@@ -138,8 +130,6 @@ Tomando-se como exemplo o quadro de Backlog do Produto presente no GitHub (Wiki 
 
 
 ## Requisitos do Projeto
-
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
 
 ### Requisitos Funcionais
 
@@ -183,8 +173,6 @@ De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Au
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 Conforme explica o artigo "O que são requisitos funcionais e não funcionais?" (Autor Francilvio Roberto Alff, 7 de março de 2018), os requisitos não funcionais (RNF) devem sempre ser mensuráveis, ou seja, deve ser possível verificar se ele está ou não sendo atendido pelo software de acordo com alguma métrica apropriada. Portanto, os RNFs foram definidos seguindo a diretriz proposta pelo autor supramencionado.
 
