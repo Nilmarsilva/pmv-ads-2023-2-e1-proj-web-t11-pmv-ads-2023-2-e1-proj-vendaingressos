@@ -44,7 +44,7 @@ Ainda, o usuário pode acessar a página inicial, página dos eventos passados e
 
 Figura 3 - Tela de Eventos (que irão ocorrer)
 
-A imagem a seguir, demonstra como seria a página com eventos reais:
+A imagem a seguir demonstra como seria a página com eventos reais:
 
 ![Pagina de eventos (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/724b162e-268c-4ebb-83d7-936f0d8263e8)
 
