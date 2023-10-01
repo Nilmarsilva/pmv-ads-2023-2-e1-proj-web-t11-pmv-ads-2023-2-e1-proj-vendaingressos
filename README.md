@@ -13,9 +13,6 @@ Este projeto tem como objetivo o desenvolvimento de um portal especializado em e
 * Daniel Müller Armond
 * Bernardo Alves Sirqueira
 * Rodrigo Vieira Alves de Lima
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
 
 ## Orientador
 
