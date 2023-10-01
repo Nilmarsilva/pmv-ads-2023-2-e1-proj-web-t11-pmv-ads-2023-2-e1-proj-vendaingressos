@@ -85,6 +85,11 @@ Tudo isso é apresentado na Figura 6 a seguir.
 
 Figura 6 – Tela com a informação expandida do evento que vai ocorrer; que já ocorreu e do evento favoritado
 
+A imagem a seguir demonstra como seria a descrição expandida do evento.
+
+![Pagina de eventos (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/b27fa97e-379b-4bde-9283-47189f290cc8)
+
+
 ## Tela – Login e Cadastrar
 Essa tela permite ao usuário efetuar o login, informando senha e nome de usuário, ou, alternativamente, logar por meio da conta do Facebook, para que ele possa visualizar as páginas favoritadas por ele e ingressos já comprados.
 
