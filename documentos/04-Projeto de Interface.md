@@ -66,7 +66,7 @@ Ainda, o usuário pode acessar a pagina inicial, pagina dos eventos e os eventos
 
 Tudo isso é apresentado na Figura 5 a seguir.
 
-![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/41dd1fed-a57f-47d2-bf70-ea62ba6f0fd2)
+![Pagina de eventos (4)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/31f91567-fe68-495e-8560-9adeb37fed59)
 
 
 Figura 5 - Tela de Eventos Favoritos
