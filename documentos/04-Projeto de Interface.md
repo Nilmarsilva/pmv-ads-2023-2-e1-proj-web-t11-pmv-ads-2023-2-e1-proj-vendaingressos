@@ -39,7 +39,8 @@ A tela de Eventos demonstra 3 principais eventos que irão ocorrer. Os principai
 
 Ainda, o usuário pode acessar a página inicial, página dos eventos passados e os eventos favoritados por ele. Tudo isso é apresentado na Figura 3 abaixo.
 
-![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/394233c9-f25b-47d0-bc11-cd5de22fa166)
+![Pagina de eventos (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/0d2f8a9a-6d04-44f2-be2c-fef1ca2fe1d5)
+
 
 
 Figura 3 - Tela de Eventos (que irão ocorrer)
