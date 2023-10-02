@@ -72,19 +72,13 @@ Tudo isso é apresentado na Figura 5 a seguir.
 Figura 5 - Tela de Eventos Favoritos
 
 ## Tela – Informação Expandida do Evento
-A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer, do evento que já ocorreu e do evento favoritado pelo usuário. 
-
-Ainda, o usuário pode acessar a página inicial, pagina dos eventos e os eventos passados.
-
-Tudo isso é apresentado na Figura 6 a seguir.
-
-![Beige Minimalist Creative Agency Website Desktop Prototype (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/872433cf-ea04-4984-bc5a-b8a1ac837b70)
-
-Figura 6 – Tela com a informação expandida do evento que vai ocorrer; que já ocorreu e do evento favoritado
+A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer. 
 
 A imagem a seguir demonstra como seria a descrição expandida do evento.
 
 ![Pagina de eventos (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/b27fa97e-379b-4bde-9283-47189f290cc8)
+
+Figura 6 – Tela com a informação expandida do evento que vai ocorrer
 
 
 ## Tela – Login e Cadastrar
