@@ -11,7 +11,8 @@ Dessa forma, o projeto visa manter e aderir uma identidade visual consistente em
 
 O diagrama apresentado na Figura 1 mostra o fluxo de interação do usuário por meio das telas do sistema. Cada uma das telas da figura supramencionada é detalhada na seção de Wireframes a seguir. Destaca-se que o nome escolhido para o portal é Tec Fusion, pois diversos eventos tecnológicos podem ser encontrados em um único lugar (no portal Tec Fusion). 
 
-![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/14842d7d-9f68-4102-9c32-82e673030267)
+
+![Beige Minimalist Creative Agency Website Desktop Prototype](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/11201d4b-da70-4677-ad19-93724670fd45)
 
 Figura 1 - Fluxo de telas do usuário
 
