@@ -57,7 +57,8 @@ Ainda, o usuário pode acessar a página inicial, pagina dos eventos e os evento
 
 Tudo isso é apresentado na Figura 4 a seguir.
 
-![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/56457c4b-5122-4344-9c5d-09f9532cc219)
+![Pagina de eventos passados (5)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/6ca6ad0a-842f-450c-8644-0699d89167d8)
+
 
 Figura 4 - Tela de Eventos Passados
 
