@@ -1,1 +1,64 @@
+@font-face {
+    font-family: 'Gitesy';
+    src: url('/Users/danielarmond/Documents/Teste_Projeto /Fonte/Gistesy.ttf') format('woff');
+}
 
+/* Formato dos Links */
+a {
+    color: antiquewhite;/* Deixar os links com a cor branca */
+    text-decoration: none; /* Remover o sublinhado padrão dos links */
+}
+
+header {
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(51, 0, 88);
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+section {
+    float: left; /* Faz a imagem flutuar à esquerda */
+    margin-right: 5px; /* Cria espaço entre a imagem e o texto */
+    width: 40%;/* Ajusta a largura da section */
+}
+nav{
+    border-bottom: 1px solid antiquewhite;
+    width: 100%;
+    margin-bottom: 5px;
+    color: antiquewhite;
+    display: inline-block;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px; /* Espaçamento entre os itens de navegação */
+    color: antiquewhite;
+}
+
+.gitesy-text {
+    font-family: 'Gitesy';
+    font-size: 50px;
+}
+
+h2 {
+    font-size: large;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+p {
+    font-size:large;
+    text-align: justify;
+    width: 100%;
+}
+
+img {
+    margin-top: 5px;
+    width: 100%;
+
+}
