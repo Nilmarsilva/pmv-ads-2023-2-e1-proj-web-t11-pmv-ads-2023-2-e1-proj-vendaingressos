@@ -20,7 +20,7 @@ A imagem abaixo representa o fluxo de telas.
 <img width="1261" alt="Screen Shot 2023-10-19 at 6 42 45 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/d808f36e-843e-46a4-982a-082ac54b207e">
 
 
-## Tela Principal
+## Tela Principal (slide 1)
 
 Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se perceber que optou por uma homepage clara e simples, com informações necessárias e suficientes para que o usuário possa navegar por todo o site. Além disso, a navegação é intuitiva, pois os pontos de interação (por exemplo, “Eventos”, Eventos Passados” e Cadastro de Empresas e Alunos”  são facilmente identificáveis.
 
@@ -33,7 +33,12 @@ A tela Informação Expandida do Evento traz a descrição detalhada do evento q
 
 <img width="1275" alt="Screen Shot 2023-10-19 at 7 04 09 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/201b355e-314c-4817-8199-f3c5db3d40e2">
 
-## Tela de Login
+## Tela de Login (slide 6)
+FALTA DESENVOLVER
+Essa tela permite ao usuário efetuar o login, informando senha e nome de usuário, ou, alternativamente, logar por meio da conta do Facebook, para que ele possa visualizar as páginas favoritadas por ele e ingressos já comprados.
+
+<img width="446" alt="Screen Shot 2023-10-19 at 7 11 20 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/875c503a-521b-4010-9bdd-41a800d70f85">
+
 
 
 
