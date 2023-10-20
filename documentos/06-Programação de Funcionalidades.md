@@ -4,20 +4,31 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Tela Principa (Home Page)
 
-[Adicione imagem da funcionalidade/tela]
+Responsável: Daniel Muller Armond.
+
+As estruturas de dados foram baseadas em HTML, CSS.
+
+Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se perceber que optou por uma homepage clara e simples, com informações necessárias e suficientes para que o usuário possa navegar por todo o site. Além disso, a navegação é intuitiva, pois os pontos de interação (por exemplo, “Eventos”, Eventos Passados” e Cadastro de Empresas e Alunos” são facilmente identificáveis.
+
+
+
+Exemplo da Home Page:
+
+
+<img width="778" alt="Screen Shot 2023-10-20 at 8 11 53 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a180063f-da91-4967-a557-8f9f7b3c564f">
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF-20: A aplicação deve fornecer uma página principal que permita acesso a outras páginas (paginas de eventos, eventos passados e cadastro de usuário).
 
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+- HP.html
+- style HP.css
 
 #### Estrutura de Dados
 
