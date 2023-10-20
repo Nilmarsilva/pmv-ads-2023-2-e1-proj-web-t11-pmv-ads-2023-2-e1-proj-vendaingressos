@@ -164,6 +164,7 @@ De acordo com o artigo "O que são requisitos funcionais e não funcionais?" (Au
 |  RF-17  |  A aplicação deve informar ao organizador sempre que uma compra for efetuada ou cancelada                    | BAIXA   |
 |  RF-18  |  A aplicação deve fornecer ao usuário a opção de redefinir sua senha, informando o email cadastrado                    | ALTA   |
 |  RF-19  |  O sistema deve possibilitar ao usuário o compartilhamento da realização de uma compra                    |  MÉDIA  |
+|  RF-20  |  A aplicação deve fornecer uma página principal que permita acesso a outras páginas (paginas de eventos, eventos passados e cadastro de usuário)                    |  ALTA  |
 
 
 
