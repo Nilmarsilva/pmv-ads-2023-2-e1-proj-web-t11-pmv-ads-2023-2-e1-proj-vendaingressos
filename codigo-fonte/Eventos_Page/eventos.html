@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/eventos.css">
+    <title>Pesquisar Eventos</title>
+</head>
+<body>
+    <nav>
+        <ul class="nav-menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Cadastrar</a></li>
+            <li><a href="#">Favoritos</a></li>
+        </ul>
+    </nav>
+
+    <!--barra de pesquisa-->
+    <div class="search-bar">
+        <input type="text" id="search" placeholder="Procurar Eventos" class="search-input" >
+    </div>
+
+    <!--Secao Categorias-->
+    <div class="container">
+        <h2>Categorias</h2>
+        <div class="buttons">
+            <button class="category-button" data-filter="all">All</button>
+            <button class="category-button" data-filter="internet-das-coisas">Internet das Coisas</button>
+            <button class="category-button" data-filter="computacao-quantica">Computação Quântica</button>
+            <button class="category-button" data-filter="ciencia-de-dados">Ciência de Dados</button>
+            <button class="category-button" data-filter="cloud-computing">Cloud Computing</button>
+            <button class="category-button" data-filter="inteligencia-artificial">Inteligência Artificial</button>
+        </div>
+        <div class="imagem-container">
+            <div class="category-block" data-category="internet-das-coisas">
+                <img src="/img/img4.jpg" alt="Internet das Coisas">
+            <div class="conteudo"> 
+                <h1>BH innovation Summit</h1>
+                <p>
+                    <i class="fas fa-dollar-sign"></i> Comprar entrada
+                </p>
+                <p>
+                    <i class="fas fa-star"></i> Favoritar evento
+                </p>
+                <p>
+                    <i class="fas fa-tag" style="color: #E8AFF6;"></i> Palestra Sobre: Internet das Coisas
+                </p>
+            </div>
+            </div>
+
+            <div class="category-block" data-category="internet-das-coisas">
+                <img src="/img/img2.jpg" alt="Internet das Coisas">
+            <div class="conteudo"> 
+                <h1>São Paulo Expo</h1>
+                <p>
+                    <i class="fas fa-dollar-sign"></i> Comprar entrada
+                </p>
+                <p>
+                    <i class="fas fa-star"></i> Favoritar evento
+                </p>
+                <p>
+                    <i class="fas fa-tag" style="color: #E8AFF6;"></i> Palestra Sobre: Internet das Coisas
+                </p>
+            </div>
+            </div>
+
+            <div class="category-block" data-category="inteligencia-artificial">
+                <img src="/img/img1.jpg" alt="Inteligência Artificial">
+            <div class="conteudo"> 
+                <h1>MEEC TECH 2023</h1>
+                <p>
+                    <i class="fas fa-dollar-sign"></i> Comprar entrada
+                </p>
+                <p>
+                    <i class="fas fa-star"></i> Favoritar evento
+                </p>
+                <p>
+                    <i class="fas fa-tag" style="color: #E8AFF6;"></i> Palestra Sobre: Inteligência Artificial
+                </p>
+            </div>
+            </div>
+
+            <div class="category-block" data-category="ciencia-de-dados">
+                <img src="/img/img3.jpg" alt="Ciência de Dados">
+            <div class="conteudo"> 
+                <h1>Data Science Summit 2023</h1>
+                <p>
+                    <i class="fas fa-dollar-sign"></i> Comprar entrada
+                </p>
+                <p>
+                    <i class="fas fa-star"></i> Favoritar evento
+                </p>
+                <p>
+                    <i class="fas fa-tag" style="color: #E8AFF6;"></i> Palestra Sobre: Ciência de Dados
+                </p>
+            </div>
+            </div>
+
+            <div class="category-block" data-category="inteligencia-artificial">
+                <img src="/img/img1.jpg" alt="Inteligência Artificial">
+            <div class="conteudo"> 
+                <h1>AI Symposium 2023</h1>
+                <p>
+                    <i class="fas fa-dollar-sign"></i> Comprar entrada
+                </p>
+                <p>
+                    <i class="fas fa-star"></i> Favoritar evento
+                </p>
+                <p>
+                    <i class="fas fa-tag" style="color: #E8AFF6;"></i> Palestra Sobre: Inteligência Artificial
+                </p>
+            </div>
+        </div>
+        </div>
+    </div>
+    
+    <script src="/js/pesquisar.js"></script>
+    <script src="/js/filtro.js"></script>
+
+</body>
+</html>
