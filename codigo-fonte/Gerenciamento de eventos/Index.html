@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cadastro de Contatos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onload="init()">
+    <h1>Cadastro de Empresas de Tecnologia (CRUD)</h1>
+
+    <div class="container">
+        <div class="row">
+            <div id="msg" class="col-sm-10 offset-sm-1 ">
+                <!--<div class="alert alert-warning">Contato não encontrado.</div>-->
+            </div>
+        </div>
+
+        <form id="form-contato">
+            <div class="form-group row">
+                <div class="col-sm-3">
+                    <label for="inputId">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-fingerprint" viewBox="0 0 16 16">
+                            <path d="M8.06 6.5a.5.5 0 0 1 .5.5v.776a11.5 11.5 0 0 1-.552 3.519l-1.331 4.14a.5.5 0 0 1-.952-.305l1.33-4.141a10.5 10.5 0 0 0 .504-3.213V7a.5.5 0 0 1 .5-.5Z"/>
+                            <path d="M6.06 7a2 2 0 1 1 4 0 .5.5 0 1 1-1 0 1 1 0 1 0-2 0v.332c0 .409-.022.816-.066 1.221A.5.5 0 0 1 6 8.447c.04-.37.06-.742.06-1.115V7Zm3.509 1a.5.5 0 0 1 .487.513 11.5 11.5 0 0 1-.587 3.339l-1.266 3.8a.5.5 0 0 1-.949-.317l1.267-3.8a10.5 10.5 0 0 0 .535-3.048A.5.5 0 0 1 9.569 8Zm-3.356 2.115a.5.5 0 0 1 .33.626L5.24 14.939a.5.5 0 1 1-.955-.296l1.303-4.199a.5.5 0 0 1 .625-.329Z"/>
+                            <path d="M4.759 5.833A3.501 3.501 0 0 1 11.559 7a.5.5 0 0 1-1 0 2.5 2.5 0 0 0-4.857-.833.5.5 0 1 1-.943-.334Zm.3 1.67a.5.5 0 0 1 .449.546 10.72 10.72 0 0 1-.4 2.031l-1.222 4.072a.5.5 0 1 1-.958-.287L4.15 9.793a9.72 9.72 0 0 0 .363-1.842.5.5 0 0 1 .546-.449Zm6 .647a.5.5 0 0 1 .5.5c0 1.28-.213 2.552-.632 3.762l-1.09 3.145a.5.5 0 0 1-.944-.327l1.089-3.145c.382-1.105.578-2.266.578-3.435a.5.5 0 0 1 .5-.5Z"/>
+                            <path d="M3.902 4.222a4.996 4.996 0 0 1 5.202-2.113.5.5 0 0 1-.208.979 3.996 3.996 0 0 0-4.163 1.69.5.5 0 0 1-.831-.556Zm6.72-.955a.5.5 0 0 1 .705-.052A4.99 4.99 0 0 1 13.059 7v1.5a.5.5 0 1 1-1 0V7a3.99 3.99 0 0 0-1.386-3.028.5.5 0 0 1-.051-.705ZM3.68 5.842a.5.5 0 0 1 .422.568c-.029.192-.044.39-.044.59 0 .71-.1 1.417-.298 2.1l-1.14 3.923a.5.5 0 1 1-.96-.279L2.8 8.821A6.531 6.531 0 0 0 3.058 7c0-.25.019-.496.054-.736a.5.5 0 0 1 .568-.422Zm8.882 3.66a.5.5 0 0 1 .456.54c-.084 1-.298 1.986-.64 2.934l-.744 2.068a.5.5 0 0 1-.941-.338l.745-2.07a10.51 10.51 0 0 0 .584-2.678.5.5 0 0 1 .54-.456Z"/>
+                            <path d="M4.81 1.37A6.5 6.5 0 0 1 14.56 7a.5.5 0 1 1-1 0 5.5 5.5 0 0 0-8.25-4.765.5.5 0 0 1-.5-.865Zm-.89 1.257a.5.5 0 0 1 .04.706A5.478 5.478 0 0 0 2.56 7a.5.5 0 0 1-1 0c0-1.664.626-3.184 1.655-4.333a.5.5 0 0 1 .706-.04ZM1.915 8.02a.5.5 0 0 1 .346.616l-.779 2.767a.5.5 0 1 1-.962-.27l.778-2.767a.5.5 0 0 1 .617-.346Zm12.15.481a.5.5 0 0 1 .49.51c-.03 1.499-.161 3.025-.727 4.533l-.07.187a.5.5 0 0 1-.936-.351l.07-.187c.506-1.35.634-2.74.663-4.202a.5.5 0 0 1 .51-.49Z"/>
+                          </svg>
+                        Id
+                    </label>
+                    <input type="text" class="form-control" id="inputId" placeholder="ID" disabled>
+                </div>
+                
+                <div class="col-sm-9">
+                    <label for="inputNome">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-square" viewBox="0 0 16 16">
+                            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                            <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm12 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1v-1c0-1-1-4-6-4s-6 3-6 4v1a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12z"/>
+                        </svg>
+                        Nome (*)
+                    </label>
+                    <input type="text" class="form-control" id="inputNome" required placeholder="Informe o nome da empresa que fará o evento">
+                </div>
+
+                </div>
+            </div>
+            
+            <div class="form-group row">
+                <div class="col-sm-4">
+                    <label for="inputCnpj">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-buildings" viewBox="0 0 16 16">
+                            <path d="M14.763.075A.5.5 0 0 1 15 .5v15a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5V14h-1v1.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V10a.5.5 0 0 1 .342-.474L6 7.64V4.5a.5.5 0 0 1 .276-.447l8-4a.5.5 0 0 1 .487.022ZM6 8.694 1 10.36V15h5V8.694ZM7 15h2v-1.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5V15h2V1.309l-7 3.5V15Z"/>
+                            <path d="M2 11h1v1H2v-1Zm2 0h1v1H4v-1Zm-2 2h1v1H2v-1Zm2 0h1v1H4v-1Zm4-4h1v1H8V9Zm2 0h1v1h-1V9Zm-2 2h1v1H8v-1Zm2 0h1v1h-1v-1Zm2-2h1v1h-1V9Zm0 2h1v1h-1v-1ZM8 7h1v1H8V7Zm2 0h1v1h-1V7Zm2 0h1v1h-1V7ZM8 5h1v1H8V5Zm2 0h1v1h-1V5Zm2 0h1v1h-1V5Zm0-2h1v1h-1V3Z"/>
+                          </svg>
+                        CNPJ (*)
+                    </label>
+                    <input type="text" class="form-control" id="inputCnpj" required placeholder="Informe o CNPJ da empresa">
+                </div>
+                
+                <div class="col-sm-8">
+                    <label for="inputEmail">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+                            <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
+                        </svg>
+                        E-mail (*)
+                    </label>
+                    <input type="email" class="form-control" id="inputEmail" required placeholder="Informe o e-mail da empresa">
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <label for="inputCidade">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bank2" viewBox="0 0 16 16">
+                            <path d="M8.277.084a.5.5 0 0 0-.554 0l-7.5 5A.5.5 0 0 0 .5 6h1.875v7H1.5a.5.5 0 0 0 0 1h13a.5.5 0 1 0 0-1h-.875V6H15.5a.5.5 0 0 0 .277-.916l-7.5-5zM12.375 6v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zM8 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zM.5 15a.5.5 0 0 0 0 1h15a.5.5 0 1 0 0-1H.5z"/>
+                          </svg>
+                        Cidade
+                    </label>
+                    <input type="text" class="form-control" id="inputCidade" placeholder="Informe a cidade em que ocorrerá o evento" >
+                </div>
+                <div class="col-sm-6">
+                    <label for="inputCategoria">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                            <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+                          </svg>
+                        Categoria do Evento
+                    </label>
+                    <input type="text" class="form-control" id="inputCategoria" required placeholder="Ex.: Inteligência Artificial; Ciência de Dados; Internet das Coisas">
+                </div>
+            </div>
+            <div class="form-group row">    
+                <div class="col-sm-12">
+                    <label for="inputSite">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-browser-chrome" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M16 8a8.001 8.001 0 0 1-7.022 7.94l1.902-7.098a2.995 2.995 0 0 0 .05-1.492A2.977 2.977 0 0 0 10.237 6h5.511A8 8 0 0 1 16 8ZM0 8a8 8 0 0 0 7.927 8l1.426-5.321a2.978 2.978 0 0 1-.723.255 2.979 2.979 0 0 1-1.743-.147 2.986 2.986 0 0 1-1.043-.7L.633 4.876A7.975 7.975 0 0 0 0 8Zm5.004-.167L1.108 3.936A8.003 8.003 0 0 1 15.418 5H8.066a2.979 2.979 0 0 0-1.252.243 2.987 2.987 0 0 0-1.81 2.59ZM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/>
+                          </svg>
+                        Web Site (*)
+                    </label>
+                    <input type="text" class="form-control" id="inputSite" required placeholder="Web Site da empresa">
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-4">
+                    <small>(*) Campos obrigatórios</small>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-12">
+                    <input type="button" class="btn btn-success" id="btnInsert" value="Inserir">
+                    <input type="button" class="btn btn-warning" id="btnUpdate" value="Alterar">
+                    <input type="button" class="btn btn-danger" id="btnDelete" value="Excluir">
+                    <input type="button" class="btn btn-secondary" id="btnClear" value="Limpar Form">
+                    <a href="lista_contatos.html"><input type="button" class="btn btn-warning" id="btnClear" value="Pesquisar Eventos"></a>
+                </div>
+            </div>
+        </form>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <table id="grid-contatos" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Nome</th>
+                            <th scope="col">CNPJ</th>
+                            <th scope="col">E-mail</th>
+                            <th scope="col">Cidade</th>
+                            <th scope="col">Categoria</th>
+                            <th scope="col">Site</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-contatos">
+                        <tr>
+                            <td scope="row">1</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        function exibeContatos() {
+            tableContatos = document.getElementById("table-contatos");
+
+            // Remove todas as linhas do corpo da tabela
+            tableContatos.innerHTML = "";
+
+            readContato (dados => {
+                // Popula a tabela com os registros do banco de dados
+                for (i = 0; i < dados.length; i++) {
+                    let contato = dados[i];    
+                    tableContatos.innerHTML += `<tr><td scope="row">${contato.id}</td>
+                                                    <td>${contato.nome}</td>
+                                                    <td>${contato.Cnpj}</td>
+                                                    <td>${contato.email}</td>
+                                                    <td>${contato.cidade}</td>
+                                                    <td>${contato.categoria}</td>
+                                                    <td>${contato.website}</td>
+                                                </tr>`;
+                }
+            })
+        }
+
+        function init() {
+            // Define uma variável para o formulário de contato
+            formContato = document.getElementById("form-contato");
+
+            // Adiciona funções para tratar os eventos 
+            btnInsert = document.getElementById("btnInsert");
+            btnInsert.addEventListener ('click', function () {
+                // Verifica se o formulário está preenchido corretamente
+                if (!formContato.checkValidity()) {
+                    displayMessage("Preencha o formulário corretamente.");
+                    return;
+                }
+
+                // Obtem os valores dos campos do formulário
+                let campoNome = document.getElementById ('inputNome').value;
+                let campoCnpj= document.getElementById ('inputCnpj').value;
+                let campoEmail = document.getElementById ('inputEmail').value;
+                let campoCidade = document.getElementById ('inputCidade').value;
+                let campoCategoria = document.getElementById ('inputCategoria').value;
+                let campoSite = document.getElementById ('inputSite').value;
+
+                // Cria um objeto com os dados do contato
+                let contato = { nome: campoNome, 
+                    Cnpj: campoCnpj, 
+                    email: campoEmail, 
+                    cidade: campoCidade, 
+                    categoria: campoCategoria,
+                    website: campoSite };
+
+                // Cria o contato no banco de dados
+                createContato(contato, exibeContatos);
+
+                // Limpa o formulario
+                formContato.reset()
+            });
+
+            // Trata o click do botão Alterar
+            btnUpdate = document.getElementById("btnUpdate");
+            btnUpdate.addEventListener ('click', function () {
+                // Obtem os valores dos campos do formulário
+                let campoId = document.getElementById("inputId").value;
+                if (campoId == "") {
+                    displayMessage("Selecione antes um contato para ser alterado.");
+                    return;
+                }
+
+                // Obtem os valores dos campos do formulário
+                let campoNome = document.getElementById('inputNome').value;
+                let campoCnpj = document.getElementById('inputCnpj').value;
+                let campoEmail = document.getElementById('inputEmail').value;
+                let campoCidade = document.getElementById('inputCidade').value;
+                let campoCategoria = document.getElementById('inputCategoria').value;
+                let campoSite = document.getElementById('inputSite').value;
+                
+                // Cria um objeto com os dados do contato
+                let contato = { nome: campoNome, 
+                    Cnpj: campoCnpj, 
+                    email: campoEmail, 
+                    cidade: campoCidade, 
+                    categoria: campoCategoria,
+                    website: campoSite };
+
+                // Altera o contato no banco de dados
+                updateContato(parseInt(campoId), contato, exibeContatos);
+
+                // Limpa o formulario
+                formContato.reset()
+            });
+
+            // Trata o click do botão Excluir
+            btnDelete = document.getElementById('btnDelete');
+            btnDelete.addEventListener ('click', function () {
+                let campoId = document.getElementById('inputId').value;
+                if (campoId == "") {
+                    displayMessage("Selecione um contato a ser excluído.");
+                    return;
+                }
+
+                // Exclui o contato no banco de dados
+                deleteContato(parseInt(campoId), exibeContatos);
+
+                // Limpa o formulario
+                formContato.reset()
+            });
+
+            // Trata o click do botão Listar Contatos
+            btnClear = document.getElementById('btnClear');
+            btnClear.addEventListener ('click', function () {                
+                formContato.reset()
+            });
+
+            // Oculta a mensagem de aviso após alguns 5 segundos
+            msg = document.getElementById('msg');
+            msg.addEventListener ("DOMSubtreeModified", function (e) {
+                if (e.target.innerHTML == "") return;
+                setTimeout (function () {
+                    alert = msg.getElementsByClassName("alert");
+                    alert[0].remove();
+                }, 5000);
+            })
+
+            // Preenche o formulário quando o usuario clicar em uma linha da tabela 
+            gridContatos = document.getElementById("grid-contatos");
+            gridContatos.addEventListener('click', function (e) {
+                if (e.target.tagName == "TD") { 
+
+                    // Obtem as colunas da linha selecionada na tabela
+                    let linhaContato = e.target.parentNode;
+                    colunas = linhaContato.querySelectorAll("td");
+                    
+                    // Preenche os campos do formulário com os dados da linha selecionada na tabela
+                    document.getElementById ('inputId').value = colunas[0].innerText;
+                    document.getElementById ('inputNome').value = colunas[1].innerText;
+                    document.getElementById ('inputCnpj').value = colunas[2].innerText;
+                    document.getElementById ('inputEmail').value = colunas[3].innerText;
+                    document.getElementById ('inputCidade').value = colunas[4].innerText;
+                    document.getElementById ('inputCategoria').value = colunas[5].innerText;
+                    document.getElementById ('inputSite').value = colunas[6].innerText;
+                }
+            });
+
+            exibeContatos();
+        }
+    </script>
+</body>
+
+</html>
