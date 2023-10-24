@@ -1,0 +1,197 @@
+/* style geral*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    /*Colocando cor na borda do box e animação na transition*/
+    
+    :focus {
+        box-shadow: 0 0 0 0.5px #370466;
+        transition: 0.4s;
+    }
+    
+    
+    
+    /*Colocando um cursor pointer nos button*/
+    
+    button {
+        cursor: pointer;
+    
+    }
+    
+    /*Deniindo a cor dos button e input e body*/
+    
+    body, button, h1 {
+        color: #370466;
+    }
+    
+    /*Tirando o efeito de linha do link*/
+    
+    a{
+      text-decoration: none;  
+    }
+    
+    /*Definindo a altura e largura dos icons*/
+    
+    img{
+        width: 20px;
+        height: 20px;
+        color: #fff;
+    }
+    
+    /*Colocando a img background e ajustando posição*/
+    
+    body{
+        background-image:url(../img/background.png);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    /*Definindo tamanho do container e outras config*/
+    .login-container{
+        max-width: 400px;
+        width: 80%;
+    
+        background-color:  #f5f5ff;
+        padding: 20px;
+        border-radius:8px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        box-shadow: 0 0 20px 6px #2a2424;
+    }
+    
+    /*Espaçamento do form*/
+    form{
+        margin: 30px 0;
+        width: 100%;
+    
+    }
+    
+    /*Colocando um espaço entre os inputs de email e senha*/
+    
+    .input-container + .input-container{
+    margin-top: 20px;
+    
+    }
+    
+    /*Colocando o input em posição relativa, facilitar a o style */
+    
+    .input-container {
+        position: relative;
+    }
+    
+    /*style  da label ao centro do input*/
+    
+    .input-container label {
+        position: absolute;
+        left: 6px;
+        top: 50%;
+        transform: translateY(-50%);  /*Para colocar as label dentro do input ao centro*/
+        cursor: text;
+        transition: 0.4s;
+    }
+    
+    
+    /*Style dos campos da label*/
+    
+    .input-container input{
+        width:100%;
+        height: 50px;
+        padding: 6px;
+        background-color: #DFD6D6;
+        border: transparent; /*borda do input fica transparente*/
+        border-radius: 20px;
+        outline: 0;     /*tira toda linha da borda*/
+    
+    }
+    
+    /*Fazendo a transition da label para o alto do ipunt. Indentificar ser o campo do input
+    esta vazio para a transition da label(volta ao centro ser estive vazio e fica
+    no topo ser estiver preenchido*/
+    
+    .input-container input:focus ~ label,
+    .input-container input:not(:placeholder-shown) ~ label{
+        top: -10px;
+        color: #370466;   
+    }
+    
+    /*style  do button*/
+    
+    button[type="button"] {
+        margin-top: 24px;
+        width: 100%;
+        height: 48px;
+        border: 0;
+        border-radius: 20px;
+        background-color: #370466;
+        color: #fff;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    
+    /*Style do text Ja tem conta?*/
+    
+    .have-account {
+        color: #666666;
+    }
+    
+    .have-account:hover {
+        color: #370466;
+        text-decoration: underline;
+    
+    }
+    
+    /*Linha de divisão*/
+    hr {
+    width: 100%;
+    margin: 32px 0;
+    }
+    
+    /*Style dos button do Google e Facebook*/
+    
+    .oauth-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .oauth-container button {
+        background-color: #370466;
+        color: #fff;
+        font-weight: bold;
+        font-size: 14px;
+    
+        height: 48px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap:10px;
+    
+        border-radius: 20px;
+    }
+    
+    /*Style da visibilidade do password*/
+    
+    .password-visibility{
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    }
+    
+    /*Não deixa o password ficar em cima do icon de eye*/
+    
+    .input[type="password"] {
+        padding-right: 38px;
+    }

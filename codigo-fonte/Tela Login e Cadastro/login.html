@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/login.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta name="description" content="Venda de Ingressos">
+    <title>Login</title>
+</head>
+
+<body>
+
+    <!--Iniciando com uma div geral para doc-->
+
+    <div class="login-container">
+        <h1>Bem vindo de volta</h1>
+
+         <!--Criando um formulario-->
+        <form class="login-card-form">
+
+            <!--Criando um input e label dentro da div, com  type=text-->
+
+            <div class="input-container">
+                <input type="text" id="username" required placeholder=" " />
+                <label for="username">Nome de Usuário</label>
+            </div>
+
+            <!--Criando um input e label dentro da div, com  type=password-->
+
+            <div class="input-container">
+                <input type="password" id="user-password" required placeholder=" " />
+                <label for="user-password">Senha</label>
+                <span class="material-icons password-visibility">visibility</span>
+            </div>
+
+            <!--Criando um input type= checkbox-->
+
+            <div class="form-item-other">
+                <div class="checkbox">
+                   <input type="checkbox" id="remembercheckbox">
+                   <label for="remembercheckbox">Lembra Senha</label>
+               </div>
+
+               <!--Criando um link que solicitação de nova senha-->
+               <a href="#">Esqueci a Senha</a>
+
+           </div> 
+
+               <!--Criando um button do type=submit para o form-->
+
+            <button type="submit">Login</button>
+
+        </form>
+
+        <!--Criando um link com para acesso ao cadastro-->
+
+        <a href="./cadastro.html" class="have-account">Ainda não tem uma conta ? Sign Up</a>
+        
+        <!--Criando uma linha de separação-->
+
+        <hr>
+
+        <!--Criação do buttons de login via Google e Facebook-->
+
+        <div class="oauth-container">
+            <button>
+                Logar com o Google
+            </button>
+
+            <button>
+                Logar com o Facebook
+            </button>
+        </div>
+
+    </div>
+</body>
+
+</html>
