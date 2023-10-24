@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/cadastro.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta name="description" content="Venda de Ingressos">
+    <title>Cadastro</title>
+</head>
+
+<body>
+
+    <!--Iniciando com uma div geral para doc-->
+
+    <div class="login-container">
+        <h1>Crie uma conta</h1>
+
+        <!--Criando um formulario-->
+        <form>
+
+            <!--Criando um input e label dentro da div, com  type=text-->
+
+            <div class="input-container">
+                <input type="text" id="username" required placeholder=" "/>
+                <label for="username">Nome</label>
+            </div>
+
+            <!--Criando um input e label dentro da div, com  type=email-->
+
+            <div class="input-container">
+                <input type="email" id="user-email" required placeholder=" "/>
+                <label for="user-email">Email</label>
+            </div>
+
+            <!--Criando um input e label dentro da div, com  type=password-->
+
+            <div class="input-container">
+                <input type="password" id="user-password" required placeholder=" "/>
+                <label for="user-password">Senha</label>
+                <span class="material-icons password-visibility">visibility</span>
+            </div>
+
+            <!--Criando um button do type=submit para o form-->
+            <button type="submit">Criar conta</button>
+
+        </form>
+
+         <!--Criando um link com para acesso ao login-->
+
+        <a href="./login.html"class="have-account">Já tem uma conta? Sig In</a>
+
+        <!--Criando uma linha de separação-->
+        <hr>
+
+        <!--Criação do buttons de cadastro via Google e Facebook-->
+
+        <div class="oauth-container">
+            <button>
+                Continuar com o Google
+            </button>
+
+            <button>
+                Continuar com o Facebook
+            </button>
+        </div>
+
+    </div>
+</body>
+
+</html>
