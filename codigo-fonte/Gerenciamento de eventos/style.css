@@ -21,3 +21,12 @@ label {
  #grid-contatos tbody {
      cursor: pointer;
  }
+
+ h1{
+     font-family:Arial, Helvetica, sans-serif;
+ }
+ body {
+    background-color:indigo;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
