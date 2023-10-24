@@ -28,6 +28,8 @@ A figura abaixo mostra a homepage.
 
 <img width="505" alt="Screen Shot 2023-10-19 at 6 52 22 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/de5f2497-97e9-4664-a2c4-96f43ffc9810">
 
+O código em HTML pode ser acessado por meio do link: codigo-fonte/Home_Page/HP.html
+
 ## Tela – Informação Expandida do Evento (SLIDE 3)
 A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer. A imagem a seguir demonstra um exemplo de como seria a descrição expandida do evento.
 
