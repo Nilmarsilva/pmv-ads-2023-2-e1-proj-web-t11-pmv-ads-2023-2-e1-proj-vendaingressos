@@ -30,11 +30,6 @@ A figura abaixo mostra a homepage.
 
 O código em HTML pode ser acessado por meio do link: codigo-fonte/Home_Page/HP.html
 
-## Tela – Informação Expandida do Evento (SLIDE 3)
-A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer. A imagem a seguir demonstra um exemplo de como seria a descrição expandida do evento.
-
-<img width="1275" alt="Screen Shot 2023-10-19 at 7 04 09 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/201b355e-314c-4817-8199-f3c5db3d40e2">
-
 ## Tela de Login (slide 6)
 FALTA DESENVOLVER
 Essa tela permite ao usuário efetuar o login, informando senha e nome de usuário, ou, alternativamente, logar por meio da conta do Facebook, para que ele possa visualizar as páginas favoritadas por ele e ingressos já comprados.
