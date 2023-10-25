@@ -60,6 +60,7 @@ Responsável: Rodrigo
 Um filtro de pesquisa que conta com uma barra de pesquisa e alguns botões para selecionar os eventos pela categoria desejada. A estrutua de dados foram baseados em HTML, CSS e JS
 
 Exemplo do filtro de pesquisa de eventos:
+
 ![img1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/5010456a-5b39-4786-81a4-6d629fcac05c)
 
 #### Requisito atendido
