@@ -53,3 +53,27 @@ RF-20: A aplicação deve fornecer uma página principal que permita acesso a ou
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
+
+### Filtro de pesquisa (Pesquisar Eventos)  (RF- 03)
+Responsável: Rodrigo
+
+Um filtro de pesquisa que conta com uma barra de pesquisa e alguns botões para selecionar os eventos pela categoria desejada. A estrutua de dados foram baseados em HTML, CSS e JS
+
+Exemplo do filtro de pesquisa de eventos:
+![img1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/5010456a-5b39-4786-81a4-6d629fcac05c)
+
+#### Requisito atendido
+
+RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos para permitir ao usuário localizar seus ingressos
+
+
+#### Artefatos da funcionalidade
+
+- eventos.html
+- eventos.css
+- filtro.js
+- pesquisar.js
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
