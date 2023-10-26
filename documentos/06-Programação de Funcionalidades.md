@@ -4,13 +4,13 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Tela Principa (Home Page)
+### Tela Principal (Home Page)
 
-Responsável: Daniel Muller Armond.
+Responsável: Bernardo Alves Sirqueira.
 
 As estruturas de dados foram baseadas em HTML, CSS.
 
-Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se perceber que optou por uma homepage clara e simples, com informações necessárias e suficientes para que o usuário possa navegar por todo o site. Além disso, a navegação é intuitiva, pois os pontos de interação (por exemplo, “Eventos”, Eventos Passados” e Cadastro de Empresas e Alunos” são facilmente identificáveis.
+Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se perceber que optou por uma homepage clara e simples, com informações necessárias e suficientes para que o usuário possa navegar por todo o site. Além disso, a navegação é intuitiva, pois os pontos de interação (por exemplo, "Eventos", "Eventos Passados" e "Cadastro de Clientes" são facilmente identificáveis.
 
 
 
