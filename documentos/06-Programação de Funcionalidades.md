@@ -28,8 +28,8 @@ RF-20: A aplicação deve fornecer uma página principal que permita acesso a ou
 
 #### Artefatos da funcionalidade
 
-- HP.html
-- style HP.css
+- home.html
+- home.css
 
 #### Estrutura de Dados
 
