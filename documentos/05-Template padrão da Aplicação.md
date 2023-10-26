@@ -32,10 +32,11 @@ A figura abaixo mostra a homepage.
 O código em HTML pode ser acessado por meio do link: codigo-fonte/Home_Page/HP.html
 
 ## Tela de Login (slide 6)
-FALTA DESENVOLVER
 Essa tela permite ao usuário efetuar o login, informando senha e nome de usuário, ou, alternativamente, logar por meio da conta do Facebook, para que ele possa visualizar as páginas favoritadas por ele e ingressos já comprados.
 
-<img width="446" alt="Screen Shot 2023-10-19 at 7 11 20 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/875c503a-521b-4010-9bdd-41a800d70f85">
+<img width="1280" alt="Screen Shot 2023-10-26 at 6 37 23 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/1de6f62a-6f21-45cf-8813-c059b5873daa">
+
+
 
 
 
