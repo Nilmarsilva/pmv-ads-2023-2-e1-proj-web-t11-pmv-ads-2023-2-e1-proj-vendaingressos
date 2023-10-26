@@ -40,13 +40,6 @@ RF-20: A aplicação deve fornecer uma página principal que permita acesso a ou
 [Adicione as orientações de acesso à funcionalidade]
 
 
-#### Responsável
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-
-
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
 > - [JSON Tutorial](https://www.w3resource.com/JSON)
