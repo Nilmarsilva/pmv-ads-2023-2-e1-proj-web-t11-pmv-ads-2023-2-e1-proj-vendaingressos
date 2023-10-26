@@ -8,7 +8,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 Responsável: Bernardo Alves Sirqueira.
 
-As estruturas de dados foram baseadas em HTML, CSS.
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se perceber que optou por uma homepage clara e simples, com informações necessárias e suficientes para que o usuário possa navegar por todo o site. Além disso, a navegação é intuitiva, pois os pontos de interação (por exemplo, "Eventos", "Eventos Passados" e "Cadastro de Clientes" são facilmente identificáveis.
 
@@ -68,6 +68,31 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 - eventos.css
 - filtro.js
 - pesquisar.js
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+### Tela Informação Expandida do Evento (RF - 09)
+
+Responsável: Daniel Müller Armond.
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer.
+
+A imagem a seguir demonstra como seria a descrição expandida do evento.
+
+<img width="1229" alt="Screen Shot 2023-10-25 at 10 19 09 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a29880f9-899d-4435-9086-6334accf5039">
+
+#### Requisito atendido
+
+RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingresso e evento.
+
+#### Artefatos da funcionalidade
+
+- InfoExp.html
+- InfoExp.css
 
 #### Estrutura de Dados
 
