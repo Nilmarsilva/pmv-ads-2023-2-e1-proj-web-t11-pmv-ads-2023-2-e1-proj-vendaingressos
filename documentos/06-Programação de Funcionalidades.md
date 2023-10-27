@@ -15,9 +15,9 @@ Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se 
 
 
 Exemplo da Home Page:
+![Screenshot_3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/ac29d8da-29bc-4a30-b107-f5e9b3e710e7)
 
 
-![20231025_214424~2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145730279/97233da7-bfcd-4bf3-941b-a6f03921b768)
 
 
 
