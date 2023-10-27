@@ -57,8 +57,7 @@ O acesso a tela de cadastro poderá ser feito através da opção de menu “Cad
 Exemplo da tela de cadastro: 
 
 
-![tela-cadastro] (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/img/tela-cadastro.JPG)
-
+![tela-cadastro] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/img/tela-login.JPG
 #### Requisito atendido
 
 RF-001: O site deve permitir ao usuário cadastrar uma conta.
