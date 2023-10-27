@@ -69,6 +69,15 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 - filtro.js
 - pesquisar.js
 
+#### Estrutura de Dados
+
+BH innovation Summit: Compra de ingresso, data, favoritar & sobre
+Sao Paulo Expo: Compra de ingresso, data, favoritar & sobre
+MEEC TECH 2023: Compra de ingresso, data, favoritar & sobre
+Data Science Summit 2023: Compra de ingresso, data, favoritar & sobre
+AI symposium 2023: Compra de ingresso, data, favoritar & sobre
+
+
 
 ### Tela Informação Expandida do Evento (RF - 09)
 
