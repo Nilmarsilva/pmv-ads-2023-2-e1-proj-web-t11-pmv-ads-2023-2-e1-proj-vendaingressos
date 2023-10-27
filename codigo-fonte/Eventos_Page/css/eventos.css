@@ -5,6 +5,11 @@ body, ul, li, input {
     background-color: #2E336B;
 }
 
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
 img {
     border-radius: 15px;
 }
