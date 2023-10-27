@@ -38,7 +38,9 @@ Não há
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Home_Page/home.html
+
+<hr>
 
 
 
@@ -102,7 +104,6 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 ●	login.html 
 
 ●	login.css
-
 
 
 
