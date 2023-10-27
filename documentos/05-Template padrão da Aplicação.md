@@ -4,11 +4,10 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 
 O layout padrão do site foi construído com as linguagens de marcação HTML e CSS. As páginas terão como elementos padrão o menu de navegação, o header e o footer. Os elementos de identidade visual escolhidos foram:
-cor principal: #370466
-cor secundária: #2E336B
-core especial: #E8AFF6; #11113A; #fff.
-
-font -family: helvetica sans-serif
+- cor principal: #370466
+- cor secundária: #2E336B
+- core especial: #E8AFF6; #11113A; #fff.
+- font -family: helvetica sans-serif
 
 Destaca-se que para a criação do logotipo do site foi utilizada a letra do tipo Gistesy, a qual tem aparência de ter sido escrita à mão. O motivo desta escolha foi destacar a personalização e autenticidade da marca, criando uma identidade visual que possua maior proximidade com o público alvo.
 
