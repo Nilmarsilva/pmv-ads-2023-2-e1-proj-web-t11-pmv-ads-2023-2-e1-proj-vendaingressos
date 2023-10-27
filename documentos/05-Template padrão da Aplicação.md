@@ -25,7 +25,7 @@ Essa tela é a porta de entrada para o conteúdo e a interface do site. Pode-se 
 
 A figura abaixo mostra a homepage.
 
-![20231025_214424~2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145730279/dd99a1e6-ffdd-44c1-851b-16ce3382c1bd)
+![Screenshot_3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/d34c01a0-f93d-4b97-ad1a-77eb30584e6b)
 
 
 O código em HTML pode ser acessado por meio do link: codigo-fonte/Home_Page/HP.html
