@@ -57,7 +57,7 @@ O acesso a tela de cadastro poderá ser feito através da opção de menu “Cad
 Exemplo da tela de cadastro: 
 
 
-![cadastro.jpg] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/img/tela-cadastro.JPG
+![20231025_214424~2] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/img/tela-cadastro.JPG
 
 #### Requisito atendido
 
