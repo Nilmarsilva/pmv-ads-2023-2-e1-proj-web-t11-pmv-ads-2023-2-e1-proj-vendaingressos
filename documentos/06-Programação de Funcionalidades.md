@@ -74,7 +74,7 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 
 Responsável: Daniel Müller Armond.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS.
+As estruturas de dados foram baseadas em HTML, CSS.
 
 A tela Informação Expandida do Evento traz a descrição detalhada do evento que irá ocorrer.
 
@@ -120,3 +120,34 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 
 [Caso exista estrutura de dados, adicione aqui]
 
+
+### Cadastro e Busca de Empresas de Tecnologia (RF - 01)
+
+Responsável: Daniel Müller Armond.
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+A tela Cadastro e Busca de Empresas permite: inserir informaçōes sobre a empresa; alterar e excluir informaçōes, bem como limpar o formulário. Ainda, é possível acessar os dados cadastrados por meio da tela "Listagem de Empresas Cadastradas".
+
+As imagens abaixo sintetizam o que foi explicado acima.
+
+<img width="1110" alt="Screen Shot 2023-10-26 at 10 02 31 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/8e8fa2fe-5f48-4b91-845c-a214da818bec">
+
+<img width="1177" alt="Screen Shot 2023-10-26 at 10 03 10 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/db7ced4c-8532-4265-a0f9-ab733e763586">
+
+<img width="1160" alt="Screen Shot 2023-10-26 at 10 03 42 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/0d5c1f5a-c2ca-40fb-ad6e-d02460c60419">
+
+<img width="1146" alt="Screen Shot 2023-10-26 at 10 04 16 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a91ccbe3-5cfe-4e17-b629-efa04fa5c225">
+
+
+#### Requisito atendido
+
+RF-01: a aplicação permitirá: cadastrar novo usuário; alterar usuário; excluir usuário; consultar usuário.
+
+#### Artefatos da funcionalidade
+
+- index.html
+- lista_contatos.html
+- style.css
+- app.js
+- eventos_abertos.css
