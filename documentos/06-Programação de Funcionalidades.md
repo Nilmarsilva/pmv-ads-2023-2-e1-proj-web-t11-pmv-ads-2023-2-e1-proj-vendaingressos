@@ -73,6 +73,9 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 - Data Science Summit 2023: Compra de ingresso, data, favoritar & informações do evento
 - AI symposium 2023: Compra de ingresso, data, favoritar & informações do evento
 
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
 
 
 ### Tela Informação Expandida do Evento (RF - 09)
@@ -125,6 +128,10 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 
 Não há
 
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
 ### Tela de Eventos Passados (RF - 09)
 
 Responsável: Rodrigo Vieira.
@@ -149,6 +156,11 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 #### Estrutura de Dados
 
 Não há
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
 
 ### Cadastro e Busca de Empresas de Tecnologia (RF - 01)
 
