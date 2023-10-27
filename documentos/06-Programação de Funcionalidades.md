@@ -116,7 +116,7 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 #### Instruções de acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+1.	Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/login.html
 2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
 
 <hr>
