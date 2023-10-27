@@ -33,7 +33,7 @@ RF-20: A aplicação deve fornecer uma página principal que permita acesso a ou
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+Não há
 
 
 #### Instruções de acesso
@@ -102,7 +102,7 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+Não há
 
 ### Tela de Eventos Abertos (RF - 09)
 
@@ -127,5 +127,5 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+Não há
 
