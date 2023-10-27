@@ -48,7 +48,7 @@ RF-20: A aplicação deve fornecer uma página principal que permita acesso a ou
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
 
-### Filtro de pesquisa (Pesquisar Eventos)  (RF- 03)
+### Filtro de pesquisa (Pesquisar Eventos)  (RF- 10)
 Responsável: Rodrigo
 
 Um filtro de pesquisa que conta com uma barra de pesquisa e alguns botões para selecionar os eventos pela categoria desejada. A estrutua de dados foram baseados em HTML, CSS e JS
@@ -97,3 +97,29 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 #### Estrutura de Dados
 
 [Caso exista estrutura de dados, adicione aqui]
+
+### Tela de Eventos Abertos (RF - 09)
+
+Responsável: Rodrigo Vieira.
+
+As estruturas de dados foram baseadas em HTML, CSS.
+
+A tela de eventos abertos traz a descrição detalhada dos evento que estão atualmente abertos.
+
+A imagem a seguir demonstra como seria a tela de eventos abertos.
+
+![Screenshot_1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/3304240f-e7e9-472e-8a5d-ecf935fdc42f)
+
+#### Requisito atendido
+
+RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingresso e evento.
+
+#### Artefatos da funcionalidade
+
+- eventos_abertos.html
+- eventos_abertos.css
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
