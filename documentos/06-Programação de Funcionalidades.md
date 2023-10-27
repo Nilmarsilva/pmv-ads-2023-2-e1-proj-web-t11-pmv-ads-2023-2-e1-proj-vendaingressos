@@ -69,9 +69,6 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 - filtro.js
 - pesquisar.js
 
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
 
 ### Tela Informação Expandida do Evento (RF - 09)
 
