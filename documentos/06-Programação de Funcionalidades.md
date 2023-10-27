@@ -140,12 +140,20 @@ A tela Cadastro e Busca de Empresas permite: inserir informaçōes sobre a empre
 As imagens abaixo sintetizam o que foi explicado acima.
 
 <img width="1110" alt="Screen Shot 2023-10-26 at 10 02 31 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/8e8fa2fe-5f48-4b91-845c-a214da818bec">
+Imagem 1 - Cadastro de duas empresas fictícias
+
 
 <img width="1177" alt="Screen Shot 2023-10-26 at 10 03 10 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/db7ced4c-8532-4265-a0f9-ab733e763586">
+Imagem 2 - Lista as duas empresas cadastradas
+
 
 <img width="1160" alt="Screen Shot 2023-10-26 at 10 03 42 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/0d5c1f5a-c2ca-40fb-ad6e-d02460c60419">
+Imagem 3 - Seleciona quais das empresas cadastradas têm sede em Belo Horizonte
+
 
 <img width="1146" alt="Screen Shot 2023-10-26 at 10 04 16 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a91ccbe3-5cfe-4e17-b629-efa04fa5c225">
+Imagem 4 - Seleciona quais das empresas cadastradas farão palestras sobre Inteligência Artificial
+
 
 
 #### Requisito atendido
