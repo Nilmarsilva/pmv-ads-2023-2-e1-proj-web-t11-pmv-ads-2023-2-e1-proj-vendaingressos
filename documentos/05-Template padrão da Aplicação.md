@@ -1,6 +1,6 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia possui cor principal escolhida foi a cor roxa O roxo por ser muitas vezes vista como uma cor que representa a individualidade e a originalidade, típica de eventos tecnológicos. Essa cor está presente em todas as páginas em maior ou menor quantidade.
+Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia possui como cor principal a cor roxa, pois esta coloração é muitas vezes vista como uma cor que representa a individualidade e a originalidade, típica de eventos tecnológicos. Essa cor está presente em todas as páginas em maior ou menor quantidade.
 
 
 O layout padrão do site foi construído com as linguagens de marcação HTML e CSS. As páginas terão como elementos padrão o menu de navegação, o header e o footer. Os elementos de identidade visual escolhidos foram:
