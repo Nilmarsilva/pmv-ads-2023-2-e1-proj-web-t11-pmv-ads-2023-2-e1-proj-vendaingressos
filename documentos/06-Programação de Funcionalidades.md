@@ -41,15 +41,11 @@ Não há
 [Adicione as orientações de acesso à funcionalidade]
 
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
 
 
 ### Filtro de pesquisa (Pesquisar Eventos)  (RF- 10)
-Responsável: Rodrigo
+Responsável: Rodrigo Vieira
 
 Um filtro de pesquisa que conta com uma barra de pesquisa e alguns botões para selecionar os eventos pela categoria desejada. A estrutua de dados foram baseados em HTML, CSS e JS
 
@@ -129,6 +125,31 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 
 Não há
 
+### Tela de Eventos Passados (RF - 09)
+
+Responsável: Rodrigo Vieira.
+
+As estruturas de dados foram baseadas em HTML, CSS.
+
+A tela de eventos passados traz a descrição detalhada dos evento que aconteceram.
+
+A imagem a seguir demonstra como seria a tela de eventos passados.
+![Screenshot_2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/83097575/9df7c41b-9ed7-4218-8353-be658b3dffd7)
+
+
+#### Requisito atendido
+
+RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingresso e evento
+
+#### Artefatos da funcionalidade
+
+- eventos_passados.html
+- eventos_passados.css
+
+#### Estrutura de Dados
+
+Não há
+
 ### Cadastro e Busca de Empresas de Tecnologia (RF - 01)
 
 Responsável: Daniel Müller Armond.
@@ -199,3 +220,14 @@ RF-01: a aplicação permitirá: cadastrar novo usuário; alterar usuário; excl
 - style.css
 - app.js
 - eventos_abertos.css
+
+
+
+
+
+
+> **Links Úteis**:
+> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
+> - [JSON Tutorial](https://www.w3resource.com/JSON)
+> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
+> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
