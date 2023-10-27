@@ -57,7 +57,8 @@ O acesso a tela de cadastro poderá ser feito através da opção de menu “Cad
 Exemplo da tela de cadastro: 
 
 
- (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/img/tela-login.JPG)
+![tela-cadastro](https://github.com/Nilmarsilva/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/107079516/a577850a-eaae-461a-9782-78ec3c9a1710)
+
 #### Requisito atendido
 
 RF-001: O site deve permitir ao usuário cadastrar uma conta.
@@ -92,7 +93,8 @@ O acesso a tela de login poderá ser feito através do menu “Entrar”. As est
 Exemplo da tela de login: 
 
 
-![tela-login] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/img/tela-login.JPG
+![tela-login](https://github.com/Nilmarsilva/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/107079516/ee030985-bc21-4bfc-9997-dc57920eefb4)
+
 
 
 #### Requisito atendido
