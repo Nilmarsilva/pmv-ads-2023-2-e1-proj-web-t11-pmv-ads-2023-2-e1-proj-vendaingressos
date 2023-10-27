@@ -103,6 +103,11 @@ RF-09: A aplicação deve permitir ao usuário ter informações sobre o ingress
 
 Não há
 
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
 ### Tela de Eventos Abertos (RF - 09)
 
 Responsável: Rodrigo Vieira.
