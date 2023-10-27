@@ -44,6 +44,81 @@ Não há
 
 
 
+### Tela de Cadastro (RF-001)
+
+Responsável: Nilmar Antônio da Silva
+
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastro”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de cadastro: 
+
+
+![tela-cadastro](https://github.com/Nilmarsilva/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/107079516/a577850a-eaae-461a-9782-78ec3c9a1710)
+
+#### Requisito atendido
+
+RF-001: O site deve permitir ao usuário cadastrar uma conta.
+
+
+#### Artefatos da funcionalidade
+
+●cadastro.html
+
+●cadastro.css
+
+●script.js
+
+
+#### Estrutura de Dados
+
+●[cadastro.html] (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/cadastro.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/cadastro.html
+
+<hr>
+
+### Tela de Login (RF-002)
+
+Responsável: Nilmar Antônio da Silva
+
+O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de login: 
+
+
+![tela-login](https://github.com/Nilmarsilva/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/107079516/ee030985-bc21-4bfc-9997-dc57920eefb4)
+
+
+
+#### Requisito atendido
+
+RF-002: O site deve permitir ao usuário fazer o login da sua conta.
+
+#### Artefatos da funcionalidade
+
+●	login.html 
+
+●	login.css
+
+
+
+
+#### Estrutura de Dados
+
+●	[login.html] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/login.html
+
+
+#### Instruções de acesso
+
+1.	Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/login.html
+2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
+
+<hr>
+
+
 ### Filtro de pesquisa (Pesquisar Eventos)  (RF- 10)
 Responsável: Rodrigo Vieira
 
