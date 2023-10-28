@@ -291,7 +291,7 @@ Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-
 <hr>
 
 
-### Cadastro e Busca de Empresas de Tecnologia (RF - 01)
+### Cadastro e Busca de Empresas de Tecnologia - CRUD (RF - 01)
 
 Responsável: Daniel Müller Armond.
 
@@ -330,7 +330,11 @@ RF-01: a aplicação permitirá: cadastrar novo usuário; alterar usuário; excl
 - app.js
 - eventos_abertos.css
 
+#### Instruções de acesso
 
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Gerenciamento%20de%20eventos/Index.html
+
+Após isso, execute a operaçao que desejar. Isto é: inserir, alterar e excluir dados; limpar formulário ou pesquisar eventos.
 
 
 
