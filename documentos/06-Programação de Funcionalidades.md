@@ -169,15 +169,25 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 #### Estrutura de Dados
 
 ● Nome da Categoria (String): O nome da categoria que o usuário pode selecionar.
+
 ● ID da Categoria (Inteiro): Um identificador único para cada categoria.
+
 ● Barra de Pesquisa (String): Uma string que armazena o texto inserido pelo usuário na barra de pesquisa.
+
 ● Título do Evento (String): O título do evento.
+
 ● Descrição do Evento (String): Uma breve descrição do evento.
+
 ● Categoria do Evento (ID da Categoria): Uma referência à categoria à qual o evento pertence (o ID da categoria correspondente).
+
 ● Comprar Entrada (Boolean): Permite ao usuário poder comprar ingressos para o evento.
+
 ● Favoritar Evento (Boolean): Permite ao usuário favoritar o evento.
+
 ● Botões para selecionar a categoria (String) - Botão de filtro, como "All", "Ciências de Dados", etc.
+
 ● Ação do Botão (Função/Evento): A ação associada ao botão quando o usuário clica nele. Por exemplo, filtrar os eventos pela categoria correspondente
+
 
 #### Instruções de acesso
 
