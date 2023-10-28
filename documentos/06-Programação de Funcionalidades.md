@@ -73,8 +73,19 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 #### Estrutura de Dados
 
-●[cadastro.html] (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/cadastro.html)
+● Nome: (String) - O campo onde o usuário insere seu nome.
 
+● Email: (String) - O campo onde o usuário insere seu endereço de email.
+
+● Senha: (String) - O campo onde o usuário insere a senha de sua escolha.
+
+● Botão "Criar Conta": (Boolean) - Um botão que o usuário clica para criar uma nova conta.
+
+● Link "Sign In": (String) - Um link que permite ao usuário voltar para a tela de login.
+
+● Botão "Continuar com o Google": (Boolean) - Um botão que permite ao usuário criar uma conta usando sua conta do Google.
+
+● Botão "Continuar com o Facebook": (Boolean) - Um botão que permite ao usuário criar uma conta usando sua conta do Facebook.
 
 #### Instruções de acesso
 
@@ -109,7 +120,21 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 #### Estrutura de Dados
 
-●	[login.html] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Tela%20Login%20e%20Cadastro/login.html
+●	Nome de Usuário/Email: (String) - O campo onde o usuário insere seu nome de usuário ou endereço de e-mail.
+
+●	Senha: (String) - O campo onde o usuário insere sua senha.
+
+●	Botão de "Lembrar Senha": (Boolean) - Um botão de seleção que permite ao usuário escolher se deseja lembrar suas credenciais.
+
+●	Link "Esqueci a Senha": (String) - Um link que o usuário pode clicar para redefinir a senha em caso de esquecimento.
+
+● Link "Sign Up": (String) - Um link que permite ao usuário ir para a tela de login.
+
+●	Botão "Login": (Boolean) - Um botão que o usuário clica para efetuar o login com as credenciais fornecidas.
+
+●	Botão "Logar com o Google": (Boolean) - Um botão que permite ao usuário fazer login usando sua conta do Google.
+
+●	Botão "Logar com o Facebook": (Boolean) - Um botão que permite ao usuário fazer login usando sua conta do Facebook.
 
 
 #### Instruções de acesso
