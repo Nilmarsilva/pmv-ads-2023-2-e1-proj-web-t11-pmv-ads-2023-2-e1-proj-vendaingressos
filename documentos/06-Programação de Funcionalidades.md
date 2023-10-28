@@ -151,8 +151,8 @@ RF-03: A aplicação deve fornecer a funcionalidade de filtro/busca de ingressos
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Eventos_Page/eventos.html
-
+1.	Abra um navegador de Internet e informe a seguinte URL:  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/blob/main/codigo-fonte/Eventos_Page/eventos.html
+2.	Quando o botão for pressionado, o usuário será redirecionado para o evento desejado, conforme a categoria escolhida.
 <hr>
 
 
