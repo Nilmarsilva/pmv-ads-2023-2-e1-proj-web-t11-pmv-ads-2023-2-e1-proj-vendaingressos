@@ -29,9 +29,8 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 ## Hospedagem
 
-[[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
-](https://tecfusion.netlify.app/home_page/home)https://tecfusion.netlify.app/home_page/home
-
+[[[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
+https://tecfusion.netlify.app/home_page/home
 
 
 
