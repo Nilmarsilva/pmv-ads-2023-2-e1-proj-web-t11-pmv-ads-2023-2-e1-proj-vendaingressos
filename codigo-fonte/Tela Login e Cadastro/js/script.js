@@ -1,5 +1,8 @@
 // script.js
 
+// URL da API JSONServer
+const apiUrl = 'https://daniel--danielarmond.repl.co/usuarios'; 
+
 const users = [];
 
 document.getElementById("create-account-btn").addEventListener("click", function (event) {
