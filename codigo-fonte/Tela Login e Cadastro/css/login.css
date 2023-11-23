@@ -23,7 +23,7 @@ button {
 
 }
 
-/*Deniindo a cor dos button e input e body*/
+/*Denifindo a cor dos button e input e body*/
 
 body,
 button,
@@ -131,7 +131,7 @@ form {
 
 /*Style do button*/
 
-button[type="submit"] {
+button[type="button"] {
     margin-top: 24px;
     width: 100%;
     height: 48px;
